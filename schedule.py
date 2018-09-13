@@ -6,7 +6,8 @@ from datetime import datetime, timedelta
 from icalendar import Calendar, Timezone, TimezoneStandard, Event
 from lxml import html
 
-schedule_url = f'http://www.1spbgmu.ru/ruz/?timetable&group={sys.argv[1]}'
+group_id = sys.argv[1]
+schedule_url = f'http://www.1spbgmu.ru/ruz/?timetable&group={group_id}'
 
 html_source = requests.get(schedule_url).text
 
@@ -54,5 +55,5 @@ for day_info in schedule.xpath("//div[contains(@class, 'list')]"):
                   '\n'.join([kind, lecturer, group]))
         cal.add_component(event)
 
-with open('fms.ics', 'w+b') as ics:
+with open(f'{group_id}.ics', 'w+b') as ics:
     ics.write(cal.to_ical())

@@ -25,6 +25,11 @@ tz_st.add('TZOFFSETTO', timedelta(hours=3))
 tz.add_component(tz_st)
 cal.add_component(tz)
 
+h4 = schedule.xpath("//h4")
+group_name = h4[0].text if h4 else group_id
+p_status = schedule.xpath("//p[contains(@class, 'status')]")
+status = p_status[0].text if p_status else 'unknown status'
+
 for day_info in schedule.xpath("//div[contains(@class, 'list')]"):
     day_of_week_node = day_info.xpath("*[contains(@class, 'dayofweek')]")
     try:
@@ -53,7 +58,26 @@ for day_info in schedule.xpath("//div[contains(@class, 'list')]"):
         group = group_info[0].text if group_info else ''
         event.add('DESCRIPTION',
                   '\n'.join([kind, lecturer, group]))
+        event.add('COMMENT', status)
         cal.add_component(event)
 
 with open(f'{group_id}.ics', 'w+b') as ics:
     ics.write(cal.to_ical())
+
+
+with open('index.html', 'w', encoding='utf-8') as html:
+    html.write(
+f'''
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <ul>
+        <li>
+            <a href="{group_id}.ics">{group_name}</a> ({status})
+        </li>
+    </ul>
+</body>
+'''
+    )

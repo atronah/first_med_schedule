@@ -8,47 +8,11 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Рентгеноанатомия
-DTSTART;VALUE=DATE-TIME:20190603T090000
-DTEND;VALUE=DATE-TIME:20190603T104000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
-DESCRIPTION:Лекция\n(Каф К.А.)\nПоток "АН-201\; АН-202
- \; АН-203\; АН-204\; АН-205\; АН-206\; АН-207\; АН-208\; АН-
- 209\; АН-210\; АН-211\; АН-212\; АН-213\; АН-214\; АН-215\; А
- Н-216\; АН-217\; АН-218\; АН-219\; АН-220\; АН-221#Физиче
- ская культура"
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Нормальная физиология
-DTSTART;VALUE=DATE-TIME:20190603T131000
-DTEND;VALUE=DATE-TIME:20190603T145000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
-DESCRIPTION:Практика\n(Каф Ф.Н.)\nПодгруппа Подг
- руппа НФ-220
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Электив Нормальная физиология 
-DTSTART;VALUE=DATE-TIME:20190603T151000
-DTEND;VALUE=DATE-TIME:20190603T165000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
-DESCRIPTION:Лекция\n(Каф Ф.Н.)\nПоток "НФ-201\; НФ-202
- \; НФ-203\; НФ-204\; НФ-205\; НФ-206\; НФ-207\; НФ-208\; НФ-
- 209\; НФ-210\; НФ-211\; НФ-212\; НФ-213\; НФ-214\; НФ-215\; Н
- Ф-216\; НФ-217\; НФ-218\; НФ-219\; НФ-220\; НФ-221#Нормал
- ьная физиология"
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Иммунология
 DTSTART;VALUE=DATE-TIME:20190604T090000
 DTEND;VALUE=DATE-TIME:20190604T104000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Практика\n(Гусева М.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -56,8 +20,8 @@ BEGIN:VEVENT
 SUMMARY:Электив Нормальная физиология 
 DTSTART;VALUE=DATE-TIME:20190605T090000
 DTEND;VALUE=DATE-TIME:20190605T104000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Лекция\n(Каф Ф.Н.)\nПоток "НФ-201\; НФ-202
  \; НФ-203\; НФ-204\; НФ-205\; НФ-206\; НФ-207\; НФ-208\; НФ-
  209\; НФ-210\; НФ-211\; НФ-212\; НФ-213\; НФ-214\; НФ-215\; Н
@@ -69,8 +33,8 @@ BEGIN:VEVENT
 SUMMARY:Госпитальная хирургия
 DTSTART;VALUE=DATE-TIME:20190605T131000
 DTEND;VALUE=DATE-TIME:20190605T145000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Практика\n(Павлов М.В.)\nПодгруппа П
  одгруппа ГХ-220
 LOCATION:\n\n                            
@@ -79,8 +43,8 @@ BEGIN:VEVENT
 SUMMARY:Госпитальная хирургия
 DTSTART;VALUE=DATE-TIME:20190605T151000
 DTEND;VALUE=DATE-TIME:20190605T165000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Практика\n(Павлов М.В.)\nПодгруппа П
  одгруппа ГХ-220
 LOCATION:\n\n                            
@@ -89,8 +53,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20190606T090000
 DTEND;VALUE=DATE-TIME:20190606T104000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Практика\n(Топанов И.О.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -98,8 +62,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20190606T110000
 DTEND;VALUE=DATE-TIME:20190606T124000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Лекция\n(Карелин А.О.)\nПоток "201\; 202\;
   203\; 204\; 205\; 206\; 207\; 208\; 209\; 210\; 211\; 212\; 213\; 214\; 2
  15\; 216\; 217\; 218\; 219\; 220\; 221#Гигиена"
@@ -109,8 +73,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20190606T131000
 DTEND;VALUE=DATE-TIME:20190606T145000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Практика\n(Петряева О.Е.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -118,8 +82,8 @@ BEGIN:VEVENT
 SUMMARY:Стоматология
 DTSTART;VALUE=DATE-TIME:20190606T151000
 DTEND;VALUE=DATE-TIME:20190606T165000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Лекция\n(Каф С.Х.)\nПоток "201\; 202\; 203\; 2
  04\; 205\; 206\; 207\; 208\; 209\; 210\; 211\; 212\; 213\; 214\; 215\; 216
  \; 217\; 218\; 219\; 220\; 221#Стоматология"
@@ -129,8 +93,8 @@ BEGIN:VEVENT
 SUMMARY:Философия
 DTSTART;VALUE=DATE-TIME:20190615T090000
 DTEND;VALUE=DATE-TIME:20190615T140000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Экзамен\n(Каф Ф.И.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -138,8 +102,8 @@ BEGIN:VEVENT
 SUMMARY:Биохимия
 DTSTART;VALUE=DATE-TIME:20190619T090000
 DTEND;VALUE=DATE-TIME:20190619T140000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Экзамен\n(Каф Б.Х.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -147,8 +111,8 @@ BEGIN:VEVENT
 SUMMARY:Нормальная физиология
 DTSTART;VALUE=DATE-TIME:20190622T090000
 DTEND;VALUE=DATE-TIME:20190622T140000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Экзамен\n(Каф Ф.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -156,8 +120,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190624T090000
 DTEND;VALUE=DATE-TIME:20190624T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -166,8 +130,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190625T090000
 DTEND;VALUE=DATE-TIME:20190625T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -176,8 +140,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190626T090000
 DTEND;VALUE=DATE-TIME:20190626T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -186,8 +150,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190627T090000
 DTEND;VALUE=DATE-TIME:20190627T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -196,8 +160,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190628T090000
 DTEND;VALUE=DATE-TIME:20190628T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -206,8 +170,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190629T090000
 DTEND;VALUE=DATE-TIME:20190629T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -216,8 +180,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190701T090000
 DTEND;VALUE=DATE-TIME:20190701T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -226,8 +190,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190702T090000
 DTEND;VALUE=DATE-TIME:20190702T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -236,8 +200,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190703T090000
 DTEND;VALUE=DATE-TIME:20190703T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -246,8 +210,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190704T090000
 DTEND;VALUE=DATE-TIME:20190704T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -256,8 +220,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190705T090000
 DTEND;VALUE=DATE-TIME:20190705T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -266,8 +230,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190706T090000
 DTEND;VALUE=DATE-TIME:20190706T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -276,8 +240,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190708T090000
 DTEND;VALUE=DATE-TIME:20190708T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -286,8 +250,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190709T090000
 DTEND;VALUE=DATE-TIME:20190709T163000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -296,8 +260,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190710T090000
 DTEND;VALUE=DATE-TIME:20190710T104000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -306,8 +270,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190711T090000
 DTEND;VALUE=DATE-TIME:20190711T104000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -316,8 +280,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190712T090000
 DTEND;VALUE=DATE-TIME:20190712T104000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -326,8 +290,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190713T090000
 DTEND;VALUE=DATE-TIME:20190713T104000
-DTSTAMP;VALUE=DATE-TIME:20190603T220009Z
-COMMENT:Расписание не менялось с 20:59 3 июн
+DTSTAMP;VALUE=DATE-TIME:20190604T220009Z
+COMMENT:Расписание не менялось с 20:50 4 июн
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            

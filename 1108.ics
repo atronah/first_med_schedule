@@ -9,20 +9,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
-DTSTART;VALUE=DATE-TIME:20190713T090000
-DTEND;VALUE=DATE-TIME:20190713T104000
-DTSTAMP;VALUE=DATE-TIME:20190713T220008Z
-COMMENT:Расписание не менялось с 20:59 13 июл
-DESCRIPTION:Производственная практика\n(Каф Х.
- О.)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190715T090000
 DTEND;VALUE=DATE-TIME:20190715T104000
-DTSTAMP;VALUE=DATE-TIME:20190713T220008Z
-COMMENT:Расписание не менялось с 20:59 13 июл
+DTSTAMP;VALUE=DATE-TIME:20190714T220009Z
+COMMENT:Расписание не менялось с 20:59 14 июл
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            
@@ -31,8 +21,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник палатной мед. сестры
 DTSTART;VALUE=DATE-TIME:20190716T090000
 DTEND;VALUE=DATE-TIME:20190716T104000
-DTSTAMP;VALUE=DATE-TIME:20190713T220008Z
-COMMENT:Расписание не менялось с 20:59 13 июл
+DTSTAMP;VALUE=DATE-TIME:20190714T220009Z
+COMMENT:Расписание не менялось с 20:59 14 июл
 DESCRIPTION:Производственная практика\n(Каф Х.
  О.)\n
 LOCATION:\n\n                            

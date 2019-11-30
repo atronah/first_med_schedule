@@ -8,62 +8,11 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Патологическая анатомия\, клиническ
- ая патологическая анатомия
-DTSTART;VALUE=DATE-TIME:20191129T090000
-DTEND;VALUE=DATE-TIME:20191129T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
-DESCRIPTION:Практика\n(Каф П.А.)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Патологическая анатомия\, клиническ
- ая патологическая анатомия
-DTSTART;VALUE=DATE-TIME:20191129T110000
-DTEND;VALUE=DATE-TIME:20191129T115000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
-DESCRIPTION:Практика\n(Каф П.А.)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Патофизиология\, клиническая патофи
- зиология
-DTSTART;VALUE=DATE-TIME:20191129T115000
-DTEND;VALUE=DATE-TIME:20191129T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
-DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Патофизиология\, клиническая патофи
- зиология
-DTSTART;VALUE=DATE-TIME:20191129T131000
-DTEND;VALUE=DATE-TIME:20191129T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
-DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Патологическая анатомия\, клиническ
- ая патологическая анатомия
-DTSTART;VALUE=DATE-TIME:20191129T151000
-DTEND;VALUE=DATE-TIME:20191129T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
-DESCRIPTION:Лекция\n(Каф П.А.)\nПоток "3 курс весь
-  #Патологическая анатомия"
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191130T110000
 DTEND;VALUE=DATE-TIME:20191130T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -71,8 +20,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191130T131000
 DTEND;VALUE=DATE-TIME:20191130T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -81,8 +30,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191130T151000
 DTEND;VALUE=DATE-TIME:20191130T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Кишковская Е.А.)\nПоток "3 к
  урс 2 поток + спорт + пед#Лучевая диагност
  ика\, лучевая терапия"
@@ -92,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20191202T110000
 DTEND;VALUE=DATE-TIME:20191202T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Волчков Г.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -101,8 +50,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20191202T131000
 DTEND;VALUE=DATE-TIME:20191202T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Волчков Г.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -110,8 +59,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20191202T151000
 DTEND;VALUE=DATE-TIME:20191202T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Данилюк О.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -119,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20191203T131000
 DTEND;VALUE=DATE-TIME:20191203T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Варламова Л.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -128,8 +77,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20191203T151000
 DTEND;VALUE=DATE-TIME:20191203T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Шмидт Е.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -137,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191204T090000
 DTEND;VALUE=DATE-TIME:20191204T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Каф П.В.)\nПоток "3 курс 2 пот
  ок 317-335 + Спорт#Пропедевтика внутренних б
  олезней"
@@ -149,8 +98,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191204T110000
 DTEND;VALUE=DATE-TIME:20191204T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Войдак И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -159,8 +108,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191204T131000
 DTEND;VALUE=DATE-TIME:20191204T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Войдак И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -168,8 +117,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20191205T090000
 DTEND;VALUE=DATE-TIME:20191205T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Налимова И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -177,8 +126,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20191205T110000
 DTEND;VALUE=DATE-TIME:20191205T115000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф О.Г.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -186,8 +135,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20191205T115000
 DTEND;VALUE=DATE-TIME:20191205T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220008Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Служев М.И.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -195,8 +144,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20191205T131000
 DTEND;VALUE=DATE-TIME:20191205T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Служев М.И.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -205,8 +154,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191205T151000
 DTEND;VALUE=DATE-TIME:20191205T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Власов Т.Д.)\nПоток "3 курс 2 
  поток + пед#Патофизиология\, клиническая 
  патофизиология"
@@ -217,8 +166,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191206T090000
 DTEND;VALUE=DATE-TIME:20191206T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -227,8 +176,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191206T110000
 DTEND;VALUE=DATE-TIME:20191206T115000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -237,8 +186,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191206T115000
 DTEND;VALUE=DATE-TIME:20191206T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -247,8 +196,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191206T131000
 DTEND;VALUE=DATE-TIME:20191206T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -257,8 +206,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191206T151000
 DTEND;VALUE=DATE-TIME:20191206T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток "3 курс весь
   #Патологическая анатомия"
 LOCATION:\n\n                            
@@ -267,8 +216,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191207T110000
 DTEND;VALUE=DATE-TIME:20191207T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -276,8 +225,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191207T131000
 DTEND;VALUE=DATE-TIME:20191207T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -285,8 +234,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20191207T151000
 DTEND;VALUE=DATE-TIME:20191207T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Каф М.В.)\nПоток "3 курс 2 пот
  ок + педиатры +спорт#Микробиология\, виру
  сология"
@@ -296,8 +245,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20191209T110000
 DTEND;VALUE=DATE-TIME:20191209T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Волчков Г.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -305,8 +254,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20191209T131000
 DTEND;VALUE=DATE-TIME:20191209T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Волчков Г.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -314,8 +263,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20191209T151000
 DTEND;VALUE=DATE-TIME:20191209T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Данилюк О.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -323,8 +272,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20191210T131000
 DTEND;VALUE=DATE-TIME:20191210T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Варламова Л.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -332,8 +281,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20191210T151000
 DTEND;VALUE=DATE-TIME:20191210T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Шмидт Е.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -341,8 +290,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191211T090000
 DTEND;VALUE=DATE-TIME:20191211T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Каф П.В.)\nПоток "3 курс 2 пот
  ок 317-335 + Спорт#Пропедевтика внутренних б
  олезней"
@@ -353,8 +302,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191211T110000
 DTEND;VALUE=DATE-TIME:20191211T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Войдак И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -363,8 +312,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191211T131000
 DTEND;VALUE=DATE-TIME:20191211T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Войдак И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -372,8 +321,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20191212T090000
 DTEND;VALUE=DATE-TIME:20191212T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Налимова И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -381,8 +330,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20191212T110000
 DTEND;VALUE=DATE-TIME:20191212T115000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф О.Г.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -390,8 +339,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20191212T115000
 DTEND;VALUE=DATE-TIME:20191212T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Служев М.И.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -399,8 +348,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20191212T131000
 DTEND;VALUE=DATE-TIME:20191212T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Служев М.И.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -408,8 +357,8 @@ BEGIN:VEVENT
 SUMMARY:Иммунология
 DTSTART;VALUE=DATE-TIME:20191212T151000
 DTEND;VALUE=DATE-TIME:20191212T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Калинина Н.М.)\nПоток "3 кур
  с 2 поток + спорт#Иммунология"
 LOCATION:\n\n                            
@@ -419,8 +368,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191213T090000
 DTEND;VALUE=DATE-TIME:20191213T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -429,8 +378,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191213T110000
 DTEND;VALUE=DATE-TIME:20191213T115000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -439,8 +388,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191213T115000
 DTEND;VALUE=DATE-TIME:20191213T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -449,8 +398,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191213T131000
 DTEND;VALUE=DATE-TIME:20191213T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -459,8 +408,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191213T151000
 DTEND;VALUE=DATE-TIME:20191213T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток "3 курс весь
   #Патологическая анатомия"
 LOCATION:\n\n                            
@@ -469,8 +418,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191214T110000
 DTEND;VALUE=DATE-TIME:20191214T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -478,8 +427,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191214T131000
 DTEND;VALUE=DATE-TIME:20191214T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -488,8 +437,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191214T151000
 DTEND;VALUE=DATE-TIME:20191214T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Бобров Е.И.)\nПоток "3 курс 2 
  поток + спорт + пед#Лучевая диагностика\, 
  лучевая терапия"
@@ -499,8 +448,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20191216T110000
 DTEND;VALUE=DATE-TIME:20191216T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Волчков Г.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -508,8 +457,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20191216T131000
 DTEND;VALUE=DATE-TIME:20191216T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Волчков Г.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -517,8 +466,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20191216T151000
 DTEND;VALUE=DATE-TIME:20191216T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Данилюк О.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -526,8 +475,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20191217T131000
 DTEND;VALUE=DATE-TIME:20191217T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Варламова Л.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -535,8 +484,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20191217T151000
 DTEND;VALUE=DATE-TIME:20191217T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Шмидт Е.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -544,8 +493,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191218T090000
 DTEND;VALUE=DATE-TIME:20191218T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Каф П.В.)\nПоток "3 курс 2 пот
  ок 317-335 + Спорт#Пропедевтика внутренних б
  олезней"
@@ -556,8 +505,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191218T110000
 DTEND;VALUE=DATE-TIME:20191218T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Войдак И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -566,8 +515,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191218T131000
 DTEND;VALUE=DATE-TIME:20191218T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Войдак И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -575,8 +524,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20191219T090000
 DTEND;VALUE=DATE-TIME:20191219T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Налимова И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -584,8 +533,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20191219T110000
 DTEND;VALUE=DATE-TIME:20191219T115000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф О.Г.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -593,8 +542,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20191219T115000
 DTEND;VALUE=DATE-TIME:20191219T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Служев М.И.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -602,8 +551,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20191219T131000
 DTEND;VALUE=DATE-TIME:20191219T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Служев М.И.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -612,8 +561,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191219T151000
 DTEND;VALUE=DATE-TIME:20191219T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Васина Е.Ю.)\nПоток "3 курс 2 
  поток + пед#Патофизиология\, клиническая 
  патофизиология"
@@ -624,8 +573,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191220T090000
 DTEND;VALUE=DATE-TIME:20191220T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -634,8 +583,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191220T110000
 DTEND;VALUE=DATE-TIME:20191220T115000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -644,8 +593,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191220T115000
 DTEND;VALUE=DATE-TIME:20191220T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -654,8 +603,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191220T131000
 DTEND;VALUE=DATE-TIME:20191220T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -664,8 +613,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191220T151000
 DTEND;VALUE=DATE-TIME:20191220T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток "3 курс весь
   #Патологическая анатомия"
 LOCATION:\n\n                            
@@ -674,8 +623,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191221T110000
 DTEND;VALUE=DATE-TIME:20191221T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -683,8 +632,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191221T131000
 DTEND;VALUE=DATE-TIME:20191221T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -692,8 +641,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20191221T151000
 DTEND;VALUE=DATE-TIME:20191221T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Каф М.В.)\nПоток "3 курс 2 пот
  ок + педиатры +спорт#Микробиология\, виру
  сология"
@@ -703,8 +652,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20191223T110000
 DTEND;VALUE=DATE-TIME:20191223T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Волчков Г.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -712,8 +661,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20191223T131000
 DTEND;VALUE=DATE-TIME:20191223T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Волчков Г.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -721,8 +670,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20191223T151000
 DTEND;VALUE=DATE-TIME:20191223T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Данилюк О.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -730,8 +679,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20191224T131000
 DTEND;VALUE=DATE-TIME:20191224T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Варламова Л.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -739,8 +688,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20191224T151000
 DTEND;VALUE=DATE-TIME:20191224T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Шмидт Е.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -749,8 +698,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191225T090000
 DTEND;VALUE=DATE-TIME:20191225T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Колпакова М.Э.)\nПоток "3 ку
  рс 2 поток + пед#Патофизиология\, клиничес
  кая патофизиология"
@@ -761,8 +710,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191225T110000
 DTEND;VALUE=DATE-TIME:20191225T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Войдак И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -771,8 +720,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191225T131000
 DTEND;VALUE=DATE-TIME:20191225T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Войдак И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -780,8 +729,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20191226T090000
 DTEND;VALUE=DATE-TIME:20191226T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Налимова И.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -789,8 +738,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20191226T110000
 DTEND;VALUE=DATE-TIME:20191226T115000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф О.Г.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -798,8 +747,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20191226T115000
 DTEND;VALUE=DATE-TIME:20191226T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Служев М.И.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -807,8 +756,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20191226T131000
 DTEND;VALUE=DATE-TIME:20191226T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Служев М.И.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -817,8 +766,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191226T151000
 DTEND;VALUE=DATE-TIME:20191226T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Галагудза М.М.)\nПоток "3 ку
  рс 2 поток + пед#Патофизиология\, клиничес
  кая патофизиология"
@@ -829,8 +778,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191227T090000
 DTEND;VALUE=DATE-TIME:20191227T104000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -839,8 +788,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191227T110000
 DTEND;VALUE=DATE-TIME:20191227T115000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -849,8 +798,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191227T115000
 DTEND;VALUE=DATE-TIME:20191227T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -859,8 +808,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20191227T131000
 DTEND;VALUE=DATE-TIME:20191227T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -869,8 +818,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20191227T151000
 DTEND;VALUE=DATE-TIME:20191227T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток "3 курс весь
   #Патологическая анатомия"
 LOCATION:\n\n                            
@@ -879,8 +828,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191228T110000
 DTEND;VALUE=DATE-TIME:20191228T124000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -888,8 +837,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20191228T131000
 DTEND;VALUE=DATE-TIME:20191228T145000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Практика\n(Каф П.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -898,8 +847,8 @@ SUMMARY:Лучевая диагностика\, лучевая терап
  ия
 DTSTART;VALUE=DATE-TIME:20191228T151000
 DTEND;VALUE=DATE-TIME:20191228T165000
-DTSTAMP;VALUE=DATE-TIME:20191129T220006Z
-COMMENT:Расписание не менялось с 20:41 29 ноя
+DTSTAMP;VALUE=DATE-TIME:20191130T220009Z
+COMMENT:Расписание не менялось с 20:59 30 ноя
 DESCRIPTION:Лекция\n(Кишковская Е.А.)\nПоток "3 к
  урс 2 поток + спорт + пед#Лучевая диагност
  ика\, лучевая терапия"

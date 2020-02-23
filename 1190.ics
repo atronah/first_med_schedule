@@ -8,43 +8,11 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Факультетская хирургия
-DTSTART;VALUE=DATE-TIME:20200222T090000
-DTEND;VALUE=DATE-TIME:20200222T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
-DESCRIPTION:Практика\n(Каф Х.Ф.)\nПодгруппа Подг
- руппа ФХ-320
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Топографическая анатомия и операти
- вная хирургия
-DTSTART;VALUE=DATE-TIME:20200222T110000
-DTEND;VALUE=DATE-TIME:20200222T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
-DESCRIPTION:Практика\n(Бечвая Г.Т.)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общественное здоровье и здравоохра
- нение\, экономика здравоохранения
-DTSTART;VALUE=DATE-TIME:20200222T131000
-DTEND;VALUE=DATE-TIME:20200222T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
-DESCRIPTION:Лекция\n(Каф О.З.)\nПоток "317-335\,397-398#О
- бщественное здоровье и здравоохранение\
- , экономика здравоохранения"
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200225T090000
 DTEND;VALUE=DATE-TIME:20200225T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -52,8 +20,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200225T110000
 DTEND;VALUE=DATE-TIME:20200225T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -61,8 +29,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200225T131000
 DTEND;VALUE=DATE-TIME:20200225T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -71,8 +39,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200225T151000
 DTEND;VALUE=DATE-TIME:20200225T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток "317-335\,397-398#П
  атологическая анатомия\, клиническая па
  тологическая анатомия"
@@ -83,8 +51,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200226T090000
 DTEND;VALUE=DATE-TIME:20200226T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -93,8 +61,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200226T110000
 DTEND;VALUE=DATE-TIME:20200226T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -102,8 +70,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200226T131000
 DTEND;VALUE=DATE-TIME:20200226T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Кучер А.Г.)\nПоток "317-335\,397-39
  8#Пропедевтика  внутренних болезней"
 LOCATION:\n\n                            
@@ -113,8 +81,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200226T151000
 DTEND;VALUE=DATE-TIME:20200226T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Даниелян Ш.Н.)\nПоток "301-335\,
  361-364\,397-398#Топографическая анатомия и опе
  ративн"
@@ -125,8 +93,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200227T090000
 DTEND;VALUE=DATE-TIME:20200227T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.)\nПоток "317-335\,397-398#Па
  тофизиология\, клиническая патофизиолог
  ия"
@@ -137,8 +105,8 @@ SUMMARY:Трансфузиология и гравитационная х
  ирургия крови
 DTSTART;VALUE=DATE-TIME:20200227T110000
 DTEND;VALUE=DATE-TIME:20200227T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф Х.О.)\nПоток "317-335\,397-398#П
  ропедевтика внутренних болезней"
 LOCATION:\n\n                            
@@ -147,8 +115,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200227T131000
 DTEND;VALUE=DATE-TIME:20200227T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Ф.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -157,8 +125,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200228T090000
 DTEND;VALUE=DATE-TIME:20200228T113000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -166,8 +134,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200228T122000
 DTEND;VALUE=DATE-TIME:20200228T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Тузкова Ю.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -175,8 +143,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200228T151000
 DTEND;VALUE=DATE-TIME:20200228T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Ф.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -184,8 +152,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200229T090000
 DTEND;VALUE=DATE-TIME:20200229T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Х.Ф.)\nПодгруппа Подг
  руппа ФХ-320
 LOCATION:\n\n                            
@@ -195,8 +163,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200229T110000
 DTEND;VALUE=DATE-TIME:20200229T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Бечвая Г.Т.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -205,8 +173,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200229T131000
 DTEND;VALUE=DATE-TIME:20200229T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф О.З.)\nПоток "317-335\,397-398#О
  бщественное здоровье и здравоохранение\
  , экономика здравоохранения"
@@ -216,8 +184,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200302T090000
 DTEND;VALUE=DATE-TIME:20200302T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Ребров А.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -225,8 +193,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200302T110000
 DTEND;VALUE=DATE-TIME:20200302T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Ребров А.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -234,8 +202,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200303T090000
 DTEND;VALUE=DATE-TIME:20200303T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -243,8 +211,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200303T110000
 DTEND;VALUE=DATE-TIME:20200303T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -252,8 +220,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200303T131000
 DTEND;VALUE=DATE-TIME:20200303T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -262,8 +230,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200303T151000
 DTEND;VALUE=DATE-TIME:20200303T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток "317-335\,397-398#П
  атологическая анатомия\, клиническая па
  тологическая анатомия"
@@ -274,8 +242,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200304T090000
 DTEND;VALUE=DATE-TIME:20200304T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -284,8 +252,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200304T110000
 DTEND;VALUE=DATE-TIME:20200304T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -294,8 +262,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200304T131000
 DTEND;VALUE=DATE-TIME:20200304T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток "317-335\,397-398#П
  атологическая анатомия\, клиническая па
  тологическая анатомия"
@@ -306,8 +274,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200304T151000
 DTEND;VALUE=DATE-TIME:20200304T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Даниелян Ш.Н.)\nПоток "301-335\,
  361-364\,397-398#Топографическая анатомия и опе
  ративн"
@@ -317,8 +285,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200305T090000
 DTEND;VALUE=DATE-TIME:20200305T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Звартау Э.Э.)\nПоток "317-335\,39
  7-398#Фармакология"
 LOCATION:\n\n                            
@@ -328,8 +296,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200305T110000
 DTEND;VALUE=DATE-TIME:20200305T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.)\nПоток "317-335\,397-398#Па
  тофизиология\, клиническая патофизиолог
  ия"
@@ -339,8 +307,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200305T131000
 DTEND;VALUE=DATE-TIME:20200305T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Ф.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -349,8 +317,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200306T090000
 DTEND;VALUE=DATE-TIME:20200306T113000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -358,8 +326,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200306T122000
 DTEND;VALUE=DATE-TIME:20200306T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Тузкова Ю.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -367,8 +335,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200306T151000
 DTEND;VALUE=DATE-TIME:20200306T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Ф.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -376,8 +344,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200307T090000
 DTEND;VALUE=DATE-TIME:20200307T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Х.Ф.)\nПодгруппа Подг
  руппа ФХ-320
 LOCATION:\n\n                            
@@ -387,8 +355,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200307T110000
 DTEND;VALUE=DATE-TIME:20200307T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Бечвая Г.Т.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -397,8 +365,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200307T131000
 DTEND;VALUE=DATE-TIME:20200307T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф О.З.)\nПоток "317-335\,397-398#О
  бщественное здоровье и здравоохранение\
  , экономика здравоохранения"
@@ -408,8 +376,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200310T090000
 DTEND;VALUE=DATE-TIME:20200310T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -417,8 +385,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200310T110000
 DTEND;VALUE=DATE-TIME:20200310T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -426,8 +394,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200310T131000
 DTEND;VALUE=DATE-TIME:20200310T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -436,8 +404,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200310T151000
 DTEND;VALUE=DATE-TIME:20200310T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток "317-335\,397-398#П
  атологическая анатомия\, клиническая па
  тологическая анатомия"
@@ -448,8 +416,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200311T090000
 DTEND;VALUE=DATE-TIME:20200311T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -458,8 +426,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200311T110000
 DTEND;VALUE=DATE-TIME:20200311T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -467,8 +435,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200311T131000
 DTEND;VALUE=DATE-TIME:20200311T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Кучер А.Г.)\nПоток "317-335\,397-39
  8#Пропедевтика  внутренних болезней"
 LOCATION:\n\n                            
@@ -478,8 +446,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200311T151000
 DTEND;VALUE=DATE-TIME:20200311T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Даниелян Ш.Н.)\nПоток "301-335\,
  361-364\,397-398#Топографическая анатомия и опе
  ративн"
@@ -490,8 +458,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200312T090000
 DTEND;VALUE=DATE-TIME:20200312T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.)\nПоток "317-335\,397-398#Па
  тофизиология\, клиническая патофизиолог
  ия"
@@ -502,8 +470,8 @@ SUMMARY:Трансфузиология и гравитационная х
  ирургия крови
 DTSTART;VALUE=DATE-TIME:20200312T110000
 DTEND;VALUE=DATE-TIME:20200312T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф Х.О.)\nПоток "317-335\,397-398#П
  ропедевтика внутренних болезней"
 LOCATION:\n\n                            
@@ -512,8 +480,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200312T131000
 DTEND;VALUE=DATE-TIME:20200312T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Ф.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -522,8 +490,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200313T090000
 DTEND;VALUE=DATE-TIME:20200313T113000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -531,8 +499,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200313T122000
 DTEND;VALUE=DATE-TIME:20200313T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Тузкова Ю.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -540,8 +508,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200313T151000
 DTEND;VALUE=DATE-TIME:20200313T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Ф.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -549,8 +517,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200314T090000
 DTEND;VALUE=DATE-TIME:20200314T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Х.Ф.)\nПодгруппа Подг
  руппа ФХ-320
 LOCATION:\n\n                            
@@ -560,8 +528,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200314T110000
 DTEND;VALUE=DATE-TIME:20200314T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Бечвая Г.Т.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -570,8 +538,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200314T131000
 DTEND;VALUE=DATE-TIME:20200314T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф О.З.)\nПоток "317-335\,397-398#О
  бщественное здоровье и здравоохранение\
  , экономика здравоохранения"
@@ -581,8 +549,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200316T090000
 DTEND;VALUE=DATE-TIME:20200316T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Ребров А.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -590,8 +558,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200316T110000
 DTEND;VALUE=DATE-TIME:20200316T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Ребров А.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -599,8 +567,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200317T090000
 DTEND;VALUE=DATE-TIME:20200317T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -608,8 +576,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200317T110000
 DTEND;VALUE=DATE-TIME:20200317T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -617,8 +585,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200317T131000
 DTEND;VALUE=DATE-TIME:20200317T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -626,8 +594,8 @@ BEGIN:VEVENT
 SUMMARY:Патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200317T151000
 DTEND;VALUE=DATE-TIME:20200317T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток " ПА-397\; ПА-31
  7\; ПА-318\; ПА-319\; ПА-320\; ПА-321\; ПА-322\; ПА-323\; ПА
  -324\; ПА-325\; ПА-326\; ПА-327\; ПА-328\; ПА-329\; ПА-330\; 
@@ -640,8 +608,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200318T090000
 DTEND;VALUE=DATE-TIME:20200318T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -650,8 +618,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200318T110000
 DTEND;VALUE=DATE-TIME:20200318T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -659,8 +627,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200318T131000
 DTEND;VALUE=DATE-TIME:20200318T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Добронравов В.А.)\nПоток "317
  -335\,397-398#Пропедевтика  внутренних болезн
  ей"
@@ -671,8 +639,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200318T151000
 DTEND;VALUE=DATE-TIME:20200318T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Петришин В.Л.)\nПоток "301-335\,
  361-364\,397-398#Топографическая анатомия и опе
  ративн"
@@ -682,8 +650,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200319T090000
 DTEND;VALUE=DATE-TIME:20200319T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Звартау Э.Э.)\nПоток "317-335\,39
  7-398#Фармакология"
 LOCATION:\n\n                            
@@ -693,8 +661,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200319T110000
 DTEND;VALUE=DATE-TIME:20200319T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.)\nПоток "317-335\,397-398#Па
  тофизиология\, клиническая патофизиолог
  ия"
@@ -704,8 +672,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200319T131000
 DTEND;VALUE=DATE-TIME:20200319T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Ф.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -713,8 +681,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200319T151000
 DTEND;VALUE=DATE-TIME:20200319T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Соколов А.Ю.)\nПоток "317-335\,34
  5-349\,397-398#Фармакология"
 LOCATION:\n\n                            
@@ -724,8 +692,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200320T090000
 DTEND;VALUE=DATE-TIME:20200320T113000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -733,8 +701,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200320T122000
 DTEND;VALUE=DATE-TIME:20200320T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Тузкова Ю.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -742,8 +710,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200320T151000
 DTEND;VALUE=DATE-TIME:20200320T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Ф.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -751,8 +719,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200321T090000
 DTEND;VALUE=DATE-TIME:20200321T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Х.Ф.)\nПодгруппа Подг
  руппа ФХ-320
 LOCATION:\n\n                            
@@ -762,8 +730,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200321T110000
 DTEND;VALUE=DATE-TIME:20200321T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Бечвая Г.Т.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -772,8 +740,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200321T131000
 DTEND;VALUE=DATE-TIME:20200321T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф О.З.)\nПоток "317-335\,397-398#О
  бщественное здоровье и здравоохранение\
  , экономика здравоохранения"
@@ -783,8 +751,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200323T090000
 DTEND;VALUE=DATE-TIME:20200323T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Ребров А.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -792,8 +760,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200323T110000
 DTEND;VALUE=DATE-TIME:20200323T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Ребров А.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -801,8 +769,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200324T090000
 DTEND;VALUE=DATE-TIME:20200324T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -810,8 +778,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200324T110000
 DTEND;VALUE=DATE-TIME:20200324T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -819,8 +787,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200324T131000
 DTEND;VALUE=DATE-TIME:20200324T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Орлова С.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -828,8 +796,8 @@ BEGIN:VEVENT
 SUMMARY:Патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200324T151000
 DTEND;VALUE=DATE-TIME:20200324T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток " ПА-397\; ПА-31
  7\; ПА-318\; ПА-319\; ПА-320\; ПА-321\; ПА-322\; ПА-323\; ПА
  -324\; ПА-325\; ПА-326\; ПА-327\; ПА-328\; ПА-329\; ПА-330\; 
@@ -842,8 +810,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200325T090000
 DTEND;VALUE=DATE-TIME:20200325T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -852,8 +820,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200325T110000
 DTEND;VALUE=DATE-TIME:20200325T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф П.А.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -862,8 +830,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200325T131000
 DTEND;VALUE=DATE-TIME:20200325T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.А.)\nПоток "317-335\,397-398#П
  атологическая анатомия\, клиническая па
  тологическая анатомия"
@@ -873,8 +841,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200325T151000
 DTEND;VALUE=DATE-TIME:20200325T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Добронравов В.А.)\nПоток "317
  -335\,397-398#Пропедевтика  внутренних болезн
  ей"
@@ -885,8 +853,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200326T090000
 DTEND;VALUE=DATE-TIME:20200326T104000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф П.)\nПоток "317-335\,397-398#Па
  тофизиология\, клиническая патофизиолог
  ия"
@@ -896,8 +864,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200326T110000
 DTEND;VALUE=DATE-TIME:20200326T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф Х.Ф.)\nПоток "ФХ-317\; ФХ-318
  \; ФХ-319\; ФХ-320\; ФХ-321\; ФХ-322\; ФХ-323\; ФХ-324\; ФХ-
  325\; ФХ-326\; ФХ-327\; ФХ-328\; ФХ-329\; ФХ-330\; ФХ-331\; Ф
@@ -909,8 +877,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200326T131000
 DTEND;VALUE=DATE-TIME:20200326T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Ф.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -919,8 +887,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200327T090000
 DTEND;VALUE=DATE-TIME:20200327T113000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Петрищев Н.Н.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -928,8 +896,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200327T122000
 DTEND;VALUE=DATE-TIME:20200327T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Тузкова Ю.В.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -937,8 +905,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200327T151000
 DTEND;VALUE=DATE-TIME:20200327T165000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Каф Ф.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -947,8 +915,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200328T110000
 DTEND;VALUE=DATE-TIME:20200328T124000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Практика\n(Бечвая Г.Т.)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -957,8 +925,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200328T131000
 DTEND;VALUE=DATE-TIME:20200328T145000
-DTSTAMP;VALUE=DATE-TIME:20200222T220008Z
-COMMENT:Расписание не менялось с 21:00 22 фев
+DTSTAMP;VALUE=DATE-TIME:20200223T220007Z
+COMMENT:Расписание не менялось с 20:59 23 фев
 DESCRIPTION:Лекция\n(Каф О.З.)\nПоток "317-335\,397-398#О
  бщественное здоровье и здравоохранение\
  , экономика здравоохранения"

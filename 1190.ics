@@ -11,8 +11,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200504T090000
 DTEND;VALUE=DATE-TIME:20200504T104000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Ребров Антон Александр
  ович)\n
 LOCATION:\n\n                            
@@ -21,61 +21,18 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200504T110000
 DTEND;VALUE=DATE-TIME:20200504T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Ребров Антон Александр
  ович)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Пропедевтика внутренних болезней
-DTSTART;VALUE=DATE-TIME:20200505T090000
-DTEND;VALUE=DATE-TIME:20200505T104000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
-DESCRIPTION:Практика\n(Орлова Светлана Алекса
- ндровна)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Пропедевтика внутренних болезней
-DTSTART;VALUE=DATE-TIME:20200505T110000
-DTEND;VALUE=DATE-TIME:20200505T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
-DESCRIPTION:Практика\n(Орлова Светлана Алекса
- ндровна)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Пропедевтика внутренних болезней
-DTSTART;VALUE=DATE-TIME:20200505T131000
-DTEND;VALUE=DATE-TIME:20200505T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
-DESCRIPTION:Практика\n(Орлова Светлана Алекса
- ндровна)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общественное здоровье и здравоохра
- нение\, экономика здравоохранения
-DTSTART;VALUE=DATE-TIME:20200505T151000
-DTEND;VALUE=DATE-TIME:20200505T165000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
-DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
- \nПоток "317-335\,397-398#Общественное здоровье 
- и здравоохранение\, экономика здравоохр
- анения"
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200506T090000
 DTEND;VALUE=DATE-TIME:20200506T104000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Каф. пат анат)\nПодгрупп
  а Подгруппа ПА-320
 LOCATION:\n\n                            
@@ -84,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:Патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200506T110000
 DTEND;VALUE=DATE-TIME:20200506T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Каф. пат анат)\nПодгрупп
  а Подгруппа ПА-320
 LOCATION:\n\n                            
@@ -95,8 +52,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200506T131000
 DTEND;VALUE=DATE-TIME:20200506T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Лекция\n(Каф. пат анат)\nПоток "317-335\,
  397-398#Патологическая анатомия\, клиническ
  ая патологическая анатомия"
@@ -107,8 +64,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200506T151000
 DTEND;VALUE=DATE-TIME:20200506T165000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Лекция\n(Макеева Татьяна Констант
  иновна)\nПоток "301-335\,361-364\,397-398#Топографич
  еская анатомия и оперативн"
@@ -118,8 +75,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200507T110000
 DTEND;VALUE=DATE-TIME:20200507T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Лекция\n(Каф. хирург фак)\nПоток "ФХ-
  317\; ФХ-318\; ФХ-319\; ФХ-320\; ФХ-321\; ФХ-322\; ФХ-323\; Ф
  Х-324\; ФХ-325\; ФХ-326\; ФХ-327\; ФХ-328\; ФХ-329\; ФХ-330\;
@@ -131,8 +88,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200507T131000
 DTEND;VALUE=DATE-TIME:20200507T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Нефедова Наталья Викто
  ровна)\n
 LOCATION:\n\n                            
@@ -142,8 +99,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200508T090000
 DTEND;VALUE=DATE-TIME:20200508T113000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Степанян Марина Левоно
  вна)\n
 LOCATION:\n\n                            
@@ -152,8 +109,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200508T122000
 DTEND;VALUE=DATE-TIME:20200508T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Тузкова Юлия Владилено
  вна)\n
 LOCATION:\n\n                            
@@ -162,8 +119,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200508T151000
 DTEND;VALUE=DATE-TIME:20200508T165000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Громов Юрий Вячеславов
  ич)\n
 LOCATION:\n\n                            
@@ -173,8 +130,8 @@ SUMMARY:Трансфузиология и гравитационная х
  ирургия крови
 DTSTART;VALUE=DATE-TIME:20200511T090000
 DTEND;VALUE=DATE-TIME:20200511T104000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Каф. хирург общ)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -183,8 +140,8 @@ SUMMARY:Трансфузиология и гравитационная х
  ирургия крови
 DTSTART;VALUE=DATE-TIME:20200511T110000
 DTEND;VALUE=DATE-TIME:20200511T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Каф. хирург общ)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -192,8 +149,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200512T090000
 DTEND;VALUE=DATE-TIME:20200512T104000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Орлова Светлана Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -202,8 +159,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200512T110000
 DTEND;VALUE=DATE-TIME:20200512T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Орлова Светлана Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -212,8 +169,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200512T131000
 DTEND;VALUE=DATE-TIME:20200512T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Орлова Светлана Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -223,8 +180,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200512T151000
 DTEND;VALUE=DATE-TIME:20200512T165000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "317-335\,397-398#Общественное здоровье 
  и здравоохранение\, экономика здравоохр
@@ -235,8 +192,8 @@ BEGIN:VEVENT
 SUMMARY:Патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200513T090000
 DTEND;VALUE=DATE-TIME:20200513T104000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Каф. пат анат)\nПодгрупп
  а Подгруппа ПА-320
 LOCATION:\n\n                            
@@ -245,8 +202,8 @@ BEGIN:VEVENT
 SUMMARY:Патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200513T110000
 DTEND;VALUE=DATE-TIME:20200513T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Каф. пат анат)\nПодгрупп
  а Подгруппа ПА-320
 LOCATION:\n\n                            
@@ -255,8 +212,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200513T131000
 DTEND;VALUE=DATE-TIME:20200513T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Лекция\n(Панина Ираида Юрьевна)\nПо
  ток "317-335\,397-398#Пропедевтика  внутренних б
  олезней"
@@ -267,8 +224,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200515T090000
 DTEND;VALUE=DATE-TIME:20200515T113000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Степанян Марина Левоно
  вна)\n
 LOCATION:\n\n                            
@@ -277,8 +234,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200515T122000
 DTEND;VALUE=DATE-TIME:20200515T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Тузкова Юлия Владилено
  вна)\n
 LOCATION:\n\n                            
@@ -288,8 +245,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200516T110000
 DTEND;VALUE=DATE-TIME:20200516T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Арутюнов Александр Юрь
  евич)\n
 LOCATION:\n\n                            
@@ -299,8 +256,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200516T131000
 DTEND;VALUE=DATE-TIME:20200516T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "317-335\,397-398#Общественное здоровье 
  и здравоохранение\, экономика здравоохр
@@ -312,8 +269,8 @@ SUMMARY:Трансфузиология и гравитационная х
  ирургия крови
 DTSTART;VALUE=DATE-TIME:20200518T090000
 DTEND;VALUE=DATE-TIME:20200518T104000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Каф. хирург общ)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -322,8 +279,8 @@ SUMMARY:Трансфузиология и гравитационная х
  ирургия крови
 DTSTART;VALUE=DATE-TIME:20200518T110000
 DTEND;VALUE=DATE-TIME:20200518T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Каф. хирург общ)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -331,8 +288,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200519T090000
 DTEND;VALUE=DATE-TIME:20200519T104000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Орлова Светлана Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -341,8 +298,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200519T110000
 DTEND;VALUE=DATE-TIME:20200519T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Орлова Светлана Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -351,8 +308,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200519T131000
 DTEND;VALUE=DATE-TIME:20200519T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Орлова Светлана Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -362,8 +319,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200519T151000
 DTEND;VALUE=DATE-TIME:20200519T165000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "317-335\,397-398#Общественное здоровье 
  и здравоохранение\, экономика здравоохр
@@ -374,8 +331,8 @@ BEGIN:VEVENT
 SUMMARY:Патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200520T090000
 DTEND;VALUE=DATE-TIME:20200520T104000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Каф. пат анат)\nПодгрупп
  а Подгруппа ПА-320
 LOCATION:\n\n                            
@@ -384,8 +341,8 @@ BEGIN:VEVENT
 SUMMARY:Патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200520T110000
 DTEND;VALUE=DATE-TIME:20200520T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Каф. пат анат)\nПодгрупп
  а Подгруппа ПА-320
 LOCATION:\n\n                            
@@ -394,8 +351,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200520T131000
 DTEND;VALUE=DATE-TIME:20200520T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Лекция\n(Орлова Светлана Александ
  ровна)\nПоток "317-335\,397-398#Пропедевтика  вну
  тренних болезней"
@@ -406,8 +363,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200522T090000
 DTEND;VALUE=DATE-TIME:20200522T113000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Степанян Марина Левоно
  вна)\n
 LOCATION:\n\n                            
@@ -416,8 +373,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200522T122000
 DTEND;VALUE=DATE-TIME:20200522T145000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Тузкова Юлия Владилено
  вна)\n
 LOCATION:\n\n                            
@@ -427,8 +384,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200523T110000
 DTEND;VALUE=DATE-TIME:20200523T124000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Практика\n(Арутюнов Александр Юрь
  евич)\n
 LOCATION:\n\n                            
@@ -437,8 +394,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200525T090000
 DTEND;VALUE=DATE-TIME:20200525T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -447,8 +404,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200526T090000
 DTEND;VALUE=DATE-TIME:20200526T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -457,8 +414,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200527T090000
 DTEND;VALUE=DATE-TIME:20200527T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -467,8 +424,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200528T090000
 DTEND;VALUE=DATE-TIME:20200528T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -477,8 +434,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200529T090000
 DTEND;VALUE=DATE-TIME:20200529T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -487,8 +444,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200530T090000
 DTEND;VALUE=DATE-TIME:20200530T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -497,8 +454,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200601T090000
 DTEND;VALUE=DATE-TIME:20200601T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -507,8 +464,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200602T090000
 DTEND;VALUE=DATE-TIME:20200602T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -517,8 +474,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200603T090000
 DTEND;VALUE=DATE-TIME:20200603T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -527,8 +484,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200604T090000
 DTEND;VALUE=DATE-TIME:20200604T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -537,8 +494,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200605T090000
 DTEND;VALUE=DATE-TIME:20200605T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -547,10 +504,59 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200606T090000
 DTEND;VALUE=DATE-TIME:20200606T163000
-DTSTAMP;VALUE=DATE-TIME:20200503T220008Z
-COMMENT:Расписание не менялось с 21:00 3 мая
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Помощник процедурной мед. сестры
+DTSTART;VALUE=DATE-TIME:20200608T090000
+DTEND;VALUE=DATE-TIME:20200608T163000
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
+DESCRIPTION:Производственная практика\n(Каф. с
+ естр дела)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Помощник процедурной мед. сестры
+DTSTART;VALUE=DATE-TIME:20200609T090000
+DTEND;VALUE=DATE-TIME:20200609T163000
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
+DESCRIPTION:Производственная практика\n(Каф. с
+ естр дела)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Помощник процедурной мед. сестры
+DTSTART;VALUE=DATE-TIME:20200610T090000
+DTEND;VALUE=DATE-TIME:20200610T163000
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
+DESCRIPTION:Производственная практика\n(Каф. с
+ естр дела)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Помощник процедурной мед. сестры
+DTSTART;VALUE=DATE-TIME:20200611T090000
+DTEND;VALUE=DATE-TIME:20200611T163000
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
+DESCRIPTION:Производственная практика\n(Каф. с
+ естр дела)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Пропедевтика внутренних болезней
+DTSTART;VALUE=DATE-TIME:20200613T090000
+DTEND;VALUE=DATE-TIME:20200613T140000
+DTSTAMP;VALUE=DATE-TIME:20200504T220007Z
+COMMENT:Расписание не менялось с 20:56 4 мая
+DESCRIPTION:Экзамен\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
 END:VCALENDAR

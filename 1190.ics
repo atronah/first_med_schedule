@@ -12,8 +12,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200522T090000
 DTEND;VALUE=DATE-TIME:20200522T113000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Практика\n(Степанян Марина Левоно
  вна)\n
 LOCATION:\n\n                            
@@ -22,8 +22,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200522T122000
 DTEND;VALUE=DATE-TIME:20200522T145000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Практика\n(Тузкова Юлия Владилено
  вна)\n
 LOCATION:\n\n                            
@@ -33,8 +33,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200523T110000
 DTEND;VALUE=DATE-TIME:20200523T124000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Практика\n(Арутюнов Александр Юрь
  евич)\n
 LOCATION:\n\n                            
@@ -43,8 +43,8 @@ BEGIN:VEVENT
 SUMMARY:Патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200530T090000
 DTEND;VALUE=DATE-TIME:20200530T140000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Экзамен\n(Каф. пат анат)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -52,8 +52,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200604T090000
 DTEND;VALUE=DATE-TIME:20200604T140000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Экзамен\n(Каф. фармакол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -61,8 +61,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200609T090000
 DTEND;VALUE=DATE-TIME:20200609T140000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Экзамен\n(Каф. хирург общ)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -70,8 +70,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200615T090000
 DTEND;VALUE=DATE-TIME:20200615T140000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Экзамен\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -80,8 +80,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200619T090000
 DTEND;VALUE=DATE-TIME:20200619T140000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Экзамен\n(Каф. Патофизиол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -89,8 +89,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200622T090000
 DTEND;VALUE=DATE-TIME:20200622T163000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -99,8 +99,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200623T090000
 DTEND;VALUE=DATE-TIME:20200623T163000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -109,8 +109,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200624T090000
 DTEND;VALUE=DATE-TIME:20200624T163000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -119,8 +119,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200625T090000
 DTEND;VALUE=DATE-TIME:20200625T163000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -129,8 +129,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200626T090000
 DTEND;VALUE=DATE-TIME:20200626T163000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -139,8 +139,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200627T090000
 DTEND;VALUE=DATE-TIME:20200627T163000
-DTSTAMP;VALUE=DATE-TIME:20200521T220009Z
-COMMENT:Расписание не менялось с 21:00 21 мая
+DTSTAMP;VALUE=DATE-TIME:20200522T220008Z
+COMMENT:Расписание не менялось с 21:00 22 мая
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            

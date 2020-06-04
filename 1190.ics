@@ -11,8 +11,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200604T090000
 DTEND;VALUE=DATE-TIME:20200604T140000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Экзамен\n(Каф. фармакол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -20,8 +20,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200609T090000
 DTEND;VALUE=DATE-TIME:20200609T140000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Экзамен\n(Каф. хирург общ)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -29,8 +29,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200615T090000
 DTEND;VALUE=DATE-TIME:20200615T140000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Экзамен\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -39,8 +39,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200619T090000
 DTEND;VALUE=DATE-TIME:20200619T140000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Экзамен\n(Каф. Патофизиол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -48,8 +48,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200622T090000
 DTEND;VALUE=DATE-TIME:20200622T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -58,8 +58,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200623T090000
 DTEND;VALUE=DATE-TIME:20200623T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -68,8 +68,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200624T090000
 DTEND;VALUE=DATE-TIME:20200624T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -78,8 +78,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200625T090000
 DTEND;VALUE=DATE-TIME:20200625T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -88,8 +88,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200626T090000
 DTEND;VALUE=DATE-TIME:20200626T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -98,8 +98,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200627T090000
 DTEND;VALUE=DATE-TIME:20200627T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -108,8 +108,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200629T090000
 DTEND;VALUE=DATE-TIME:20200629T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -118,8 +118,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200630T090000
 DTEND;VALUE=DATE-TIME:20200630T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -128,8 +128,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200701T090000
 DTEND;VALUE=DATE-TIME:20200701T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -138,8 +138,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200702T090000
 DTEND;VALUE=DATE-TIME:20200702T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -148,8 +148,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200703T090000
 DTEND;VALUE=DATE-TIME:20200703T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -158,8 +158,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200704T090000
 DTEND;VALUE=DATE-TIME:20200704T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -168,8 +168,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200706T090000
 DTEND;VALUE=DATE-TIME:20200706T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -178,8 +178,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200707T090000
 DTEND;VALUE=DATE-TIME:20200707T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -188,8 +188,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200708T090000
 DTEND;VALUE=DATE-TIME:20200708T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -198,8 +198,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200709T090000
 DTEND;VALUE=DATE-TIME:20200709T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -208,8 +208,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200710T090000
 DTEND;VALUE=DATE-TIME:20200710T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -218,8 +218,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200711T090000
 DTEND;VALUE=DATE-TIME:20200711T163000
-DTSTAMP;VALUE=DATE-TIME:20200603T220007Z
-COMMENT:Расписание не менялось с 21:00 3 июн
+DTSTAMP;VALUE=DATE-TIME:20200604T220008Z
+COMMENT:Расписание не менялось с 21:00 4 июн
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            

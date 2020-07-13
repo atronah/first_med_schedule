@@ -11,8 +11,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200713T090000
 DTEND;VALUE=DATE-TIME:20200713T163000
-DTSTAMP;VALUE=DATE-TIME:20200712T220008Z
-COMMENT:Расписание не менялось с 21:00 12 июл
+DTSTAMP;VALUE=DATE-TIME:20200713T220010Z
+COMMENT:Расписание не менялось с 21:00 13 июл
 DESCRIPTION:Производственная практика\n(Каф. с
  естр дела)\n
 LOCATION:\n\n                            
@@ -21,8 +21,8 @@ BEGIN:VEVENT
 SUMMARY:Помощник процедурной мед. сестры
 DTSTART;VALUE=DATE-TIME:20200714T090000
 DTEND;VALUE=DATE-TIME:20200714T163000
-DTSTAMP;VALUE=DATE-TIME:20200712T220008Z
-COMMENT:Расписание не менялось с 21:00 12 июл
+DTSTAMP;VALUE=DATE-TIME:20200713T220010Z
+COMMENT:Расписание не менялось с 21:00 13 июл
 DESCRIPTION:Экзамен\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT

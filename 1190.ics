@@ -7,4 +7,211 @@ TZOFFSETFROM:+0400
 TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Микробиология\, вирусология
+DTSTART;VALUE=DATE-TIME:20200903T090000
+DTEND;VALUE=DATE-TIME:20200903T104000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. микр\, вирус)\nПоток "317
+ -335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Пропедевтика внутренних болезней
+DTSTART;VALUE=DATE-TIME:20200903T110000
+DTEND;VALUE=DATE-TIME:20200903T124000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. проп вн бол)\nПоток "317-
+ 335\; 397\; 398#3 Курс 2 Поток"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фармакология
+DTSTART;VALUE=DATE-TIME:20200903T131000
+DTEND;VALUE=DATE-TIME:20200903T145000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. фармакол)\nПоток "317-335\
+ ; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Патофизиология\, клиническая патофи
+ зиология
+DTSTART;VALUE=DATE-TIME:20200903T151000
+DTEND;VALUE=DATE-TIME:20200903T165000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. Патофизиол)\nПоток "317-
+ 335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фармакология
+DTSTART;VALUE=DATE-TIME:20200910T090000
+DTEND;VALUE=DATE-TIME:20200910T104000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. фармакол)\nПоток "317-335\
+ ; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Патологическая анатомия\, клиническ
+ ая патологическая анатомия
+DTSTART;VALUE=DATE-TIME:20200910T110000
+DTEND;VALUE=DATE-TIME:20200910T124000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. пат анат)\nПоток "317-335\;
+  345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Пропедевтика внутренних болезней
+DTSTART;VALUE=DATE-TIME:20200910T131000
+DTEND;VALUE=DATE-TIME:20200910T145000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. проп вн бол)\nПоток "317-
+ 335\; 397\; 398#3 Курс 2 Поток"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Патофизиология\, клиническая патофи
+ зиология
+DTSTART;VALUE=DATE-TIME:20200910T151000
+DTEND;VALUE=DATE-TIME:20200910T165000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. Патофизиол)\nПоток "317-
+ 335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Пропедевтика внутренних болезней
+DTSTART;VALUE=DATE-TIME:20200917T090000
+DTEND;VALUE=DATE-TIME:20200917T104000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. проп вн бол)\nПоток "317-
+ 335\; 397\; 398#3 Курс 2 Поток"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фармакология
+DTSTART;VALUE=DATE-TIME:20200917T110000
+DTEND;VALUE=DATE-TIME:20200917T124000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. фармакол)\nПоток "317-335\
+ ; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Топографическая анатомия и операти
+ вная хирургия
+DTSTART;VALUE=DATE-TIME:20200917T131000
+DTEND;VALUE=DATE-TIME:20200917T145000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф кл.анат и оп.х)\nПоток "3
+ 17-335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Патологическая анатомия\, клиническ
+ ая патологическая анатомия
+DTSTART;VALUE=DATE-TIME:20200917T151000
+DTEND;VALUE=DATE-TIME:20200917T165000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. пат анат)\nПоток "317-335\;
+  345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Патофизиология\, клиническая патофи
+ зиология
+DTSTART;VALUE=DATE-TIME:20200924T090000
+DTEND;VALUE=DATE-TIME:20200924T104000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. Патофизиол)\nПоток "317-
+ 335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Общая хирургия
+DTSTART;VALUE=DATE-TIME:20200924T110000
+DTEND;VALUE=DATE-TIME:20200924T124000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. хирург общ)\nПоток "317-3
+ 35\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Пропедевтика внутренних болезней
+DTSTART;VALUE=DATE-TIME:20200924T131000
+DTEND;VALUE=DATE-TIME:20200924T145000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. проп вн бол)\nПоток "317-
+ 335\; 397\; 398#3 Курс 2 Поток"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фармакология
+DTSTART;VALUE=DATE-TIME:20200924T151000
+DTEND;VALUE=DATE-TIME:20200924T165000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. фармакол)\nПоток "317-335\
+ ; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Микробиология\, вирусология
+DTSTART;VALUE=DATE-TIME:20201001T090000
+DTEND;VALUE=DATE-TIME:20201001T104000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. микр\, вирус)\nПоток "317
+ -335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Патологическая анатомия\, клиническ
+ ая патологическая анатомия
+DTSTART;VALUE=DATE-TIME:20201001T110000
+DTEND;VALUE=DATE-TIME:20201001T124000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. пат анат)\nПоток "317-335\;
+  345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Пропедевтика внутренних болезней
+DTSTART;VALUE=DATE-TIME:20201001T131000
+DTEND;VALUE=DATE-TIME:20201001T145000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. проп вн бол)\nПоток "317-
+ 335\; 397\; 398#3 Курс 2 Поток"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Фармакология
+DTSTART;VALUE=DATE-TIME:20201001T151000
+DTEND;VALUE=DATE-TIME:20201001T165000
+DTSTAMP;VALUE=DATE-TIME:20200825T220005Z
+COMMENT:Расписание не менялось с 21:00 25 авг
+DESCRIPTION:Лекция\n(Каф. фармакол)\nПоток "317-335\
+ ; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
+LOCATION:\n\n                            
+END:VEVENT
 END:VCALENDAR

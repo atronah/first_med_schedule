@@ -8,53 +8,11 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Патофизиология\, клиническая патофи
- зиология
-DTSTART;VALUE=DATE-TIME:20200902T090000
-DTEND;VALUE=DATE-TIME:20200902T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Патофизиология\, клиническая патофи
- зиология
-DTSTART;VALUE=DATE-TIME:20200902T110000
-DTEND;VALUE=DATE-TIME:20200902T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Патологическая анатомия\, клиническ
- ая патологическая анатомия
-DTSTART;VALUE=DATE-TIME:20200902T120000
-DTEND;VALUE=DATE-TIME:20200902T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
- ич)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Патологическая анатомия\, клиническ
- ая патологическая анатомия
-DTSTART;VALUE=DATE-TIME:20200902T131000
-DTEND;VALUE=DATE-TIME:20200902T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
- ич)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20200903T090000
 DTEND;VALUE=DATE-TIME:20200903T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220005Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Тец Виктор Вениаминович)\n
  Поток "317-335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед
  "
@@ -64,8 +22,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200903T110000
 DTEND;VALUE=DATE-TIME:20200903T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220005Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Смирнов Алексей Владимир
  ович)\nПоток "317-335\; 397\; 398#3 Курс 2 Поток"
 LOCATION:\n\n                            
@@ -74,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200903T131000
 DTEND;VALUE=DATE-TIME:20200903T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220005Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Звартау Эдвин Эдуардович)
  \nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пе
  д"
@@ -86,8 +44,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200903T151000
 DTEND;VALUE=DATE-TIME:20200903T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220005Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Власов Тимур Дмитриевич)\n
  Поток "317-335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед
  "
@@ -97,8 +55,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20200904T090000
 DTEND;VALUE=DATE-TIME:20200904T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220005Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. микр\, вирус)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -106,8 +64,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200904T131000
 DTEND;VALUE=DATE-TIME:20200904T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -116,8 +74,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200904T151000
 DTEND;VALUE=DATE-TIME:20200904T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -125,8 +83,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200905T090000
 DTEND;VALUE=DATE-TIME:20200905T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -134,8 +92,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200905T110000
 DTEND;VALUE=DATE-TIME:20200905T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -143,8 +101,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200907T090000
 DTEND;VALUE=DATE-TIME:20200907T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Лазовская Ольга Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -153,8 +111,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200907T110000
 DTEND;VALUE=DATE-TIME:20200907T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Лазовская Ольга Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -163,8 +121,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20200907T120000
 DTEND;VALUE=DATE-TIME:20200907T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Кузнецов Андрей Алексе
  евич)\n
 LOCATION:\n\n                            
@@ -173,8 +131,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20200907T131000
 DTEND;VALUE=DATE-TIME:20200907T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Кузнецов Андрей Алексе
  евич)\n
 LOCATION:\n\n                            
@@ -183,8 +141,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200908T090000
 DTEND;VALUE=DATE-TIME:20200908T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Цибин Андрей Юрьевич)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -192,8 +150,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200908T110000
 DTEND;VALUE=DATE-TIME:20200908T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Цибин Андрей Юрьевич)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -201,8 +159,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200908T131000
 DTEND;VALUE=DATE-TIME:20200908T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -211,9 +169,10 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200909T090000
 DTEND;VALUE=DATE-TIME:20200909T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
+DESCRIPTION:Практика\n(Цверина Виктория Марко
+ вна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
@@ -221,9 +180,10 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200909T110000
 DTEND;VALUE=DATE-TIME:20200909T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
+DESCRIPTION:Практика\n(Цверина Виктория Марко
+ вна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
@@ -231,8 +191,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200909T120000
 DTEND;VALUE=DATE-TIME:20200909T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
  ич)\n
 LOCATION:\n\n                            
@@ -242,8 +202,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200909T131000
 DTEND;VALUE=DATE-TIME:20200909T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
  ич)\n
 LOCATION:\n\n                            
@@ -252,8 +212,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200910T090000
 DTEND;VALUE=DATE-TIME:20200910T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Марусов Игорь Васильевич)
  \nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пе
  д"
@@ -264,8 +224,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200910T110000
 DTEND;VALUE=DATE-TIME:20200910T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Рыбакова Маргарита Григо
  рьевна)\nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 По
  ток + Пед"
@@ -275,8 +235,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200910T131000
 DTEND;VALUE=DATE-TIME:20200910T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Смирнов Алексей Владимир
  ович)\nПоток "317-335\; 397\; 398#3 Курс 2 Поток"
 LOCATION:\n\n                            
@@ -286,8 +246,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200910T151000
 DTEND;VALUE=DATE-TIME:20200910T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Власов Тимур Дмитриевич)\n
  Поток "317-335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед
  "
@@ -297,8 +257,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20200911T090000
 DTEND;VALUE=DATE-TIME:20200911T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. микр\, вирус)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -306,8 +266,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200911T131000
 DTEND;VALUE=DATE-TIME:20200911T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -316,8 +276,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200911T151000
 DTEND;VALUE=DATE-TIME:20200911T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -325,8 +285,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200912T090000
 DTEND;VALUE=DATE-TIME:20200912T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -334,8 +294,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200912T110000
 DTEND;VALUE=DATE-TIME:20200912T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -343,8 +303,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200914T090000
 DTEND;VALUE=DATE-TIME:20200914T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Лазовская Ольга Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -353,8 +313,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200914T110000
 DTEND;VALUE=DATE-TIME:20200914T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Лазовская Ольга Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -363,8 +323,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20200914T120000
 DTEND;VALUE=DATE-TIME:20200914T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Кузнецов Андрей Алексе
  евич)\n
 LOCATION:\n\n                            
@@ -373,8 +333,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20200914T131000
 DTEND;VALUE=DATE-TIME:20200914T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Кузнецов Андрей Алексе
  евич)\n
 LOCATION:\n\n                            
@@ -383,8 +343,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200915T090000
 DTEND;VALUE=DATE-TIME:20200915T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Цибин Андрей Юрьевич)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -392,8 +352,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200915T110000
 DTEND;VALUE=DATE-TIME:20200915T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Цибин Андрей Юрьевич)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -401,8 +361,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200915T131000
 DTEND;VALUE=DATE-TIME:20200915T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -411,9 +371,10 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200916T090000
 DTEND;VALUE=DATE-TIME:20200916T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
+DESCRIPTION:Практика\n(Цверина Виктория Марко
+ вна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
@@ -421,9 +382,10 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200916T110000
 DTEND;VALUE=DATE-TIME:20200916T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
+DESCRIPTION:Практика\n(Цверина Виктория Марко
+ вна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
@@ -431,8 +393,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200916T120000
 DTEND;VALUE=DATE-TIME:20200916T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
  ич)\n
 LOCATION:\n\n                            
@@ -442,8 +404,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200916T131000
 DTEND;VALUE=DATE-TIME:20200916T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
  ич)\n
 LOCATION:\n\n                            
@@ -452,8 +414,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200917T090000
 DTEND;VALUE=DATE-TIME:20200917T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Добронравов Владимир Але
  ксандрович)\nПоток "317-335\; 397\; 398#3 Курс 2 Пот
  ок"
@@ -463,8 +425,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200917T110000
 DTEND;VALUE=DATE-TIME:20200917T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Марусов Игорь Васильевич)
  \nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пе
  д"
@@ -475,8 +437,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200917T131000
 DTEND;VALUE=DATE-TIME:20200917T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Каф кл.анат и оп.х)\nПоток "3
  17-335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
 LOCATION:\n\n                            
@@ -486,8 +448,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200917T151000
 DTEND;VALUE=DATE-TIME:20200917T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Рыбакова Маргарита Григо
  рьевна)\nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 По
  ток + Пед"
@@ -497,8 +459,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20200918T090000
 DTEND;VALUE=DATE-TIME:20200918T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. микр\, вирус)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -506,8 +468,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200918T131000
 DTEND;VALUE=DATE-TIME:20200918T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -516,8 +478,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200918T151000
 DTEND;VALUE=DATE-TIME:20200918T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -525,8 +487,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200919T090000
 DTEND;VALUE=DATE-TIME:20200919T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -534,8 +496,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200919T110000
 DTEND;VALUE=DATE-TIME:20200919T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -543,8 +505,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200921T090000
 DTEND;VALUE=DATE-TIME:20200921T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Лазовская Ольга Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -553,8 +515,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200921T110000
 DTEND;VALUE=DATE-TIME:20200921T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Лазовская Ольга Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -563,8 +525,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20200921T120000
 DTEND;VALUE=DATE-TIME:20200921T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Кузнецов Андрей Алексе
  евич)\n
 LOCATION:\n\n                            
@@ -573,8 +535,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20200921T131000
 DTEND;VALUE=DATE-TIME:20200921T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Кузнецов Андрей Алексе
  евич)\n
 LOCATION:\n\n                            
@@ -583,8 +545,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200922T090000
 DTEND;VALUE=DATE-TIME:20200922T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Цибин Андрей Юрьевич)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -592,8 +554,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200922T110000
 DTEND;VALUE=DATE-TIME:20200922T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Цибин Андрей Юрьевич)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -601,8 +563,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200922T131000
 DTEND;VALUE=DATE-TIME:20200922T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -611,9 +573,10 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200923T090000
 DTEND;VALUE=DATE-TIME:20200923T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
+DESCRIPTION:Практика\n(Цверина Виктория Марко
+ вна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
@@ -621,9 +584,10 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200923T110000
 DTEND;VALUE=DATE-TIME:20200923T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
+DESCRIPTION:Практика\n(Цверина Виктория Марко
+ вна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
@@ -631,8 +595,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200923T120000
 DTEND;VALUE=DATE-TIME:20200923T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
  ич)\n
 LOCATION:\n\n                            
@@ -642,8 +606,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200923T131000
 DTEND;VALUE=DATE-TIME:20200923T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
  ич)\n
 LOCATION:\n\n                            
@@ -653,8 +617,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200924T090000
 DTEND;VALUE=DATE-TIME:20200924T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Грызунов Владимир Виктор
  ович)\nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 Пото
  к + Пед"
@@ -664,8 +628,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200924T110000
 DTEND;VALUE=DATE-TIME:20200924T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Каф. хирург общ)\nПоток "317-3
  35\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
 LOCATION:\n\n                            
@@ -674,8 +638,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200924T131000
 DTEND;VALUE=DATE-TIME:20200924T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Панина Ираида Юрьевна)\nПо
  ток "317-335\; 397\; 398#3 Курс 2 Поток"
 LOCATION:\n\n                            
@@ -684,8 +648,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200924T151000
 DTEND;VALUE=DATE-TIME:20200924T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Марусов Игорь Васильевич)
  \nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пе
  д"
@@ -695,8 +659,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20200925T090000
 DTEND;VALUE=DATE-TIME:20200925T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. микр\, вирус)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -704,8 +668,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200925T131000
 DTEND;VALUE=DATE-TIME:20200925T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -714,8 +678,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20200925T151000
 DTEND;VALUE=DATE-TIME:20200925T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -723,8 +687,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200926T090000
 DTEND;VALUE=DATE-TIME:20200926T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -732,8 +696,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20200926T110000
 DTEND;VALUE=DATE-TIME:20200926T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -741,8 +705,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200928T090000
 DTEND;VALUE=DATE-TIME:20200928T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Лазовская Ольга Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -751,8 +715,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20200928T110000
 DTEND;VALUE=DATE-TIME:20200928T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Лазовская Ольга Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -761,8 +725,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20200928T120000
 DTEND;VALUE=DATE-TIME:20200928T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Кузнецов Андрей Алексе
  евич)\n
 LOCATION:\n\n                            
@@ -771,8 +735,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20200928T131000
 DTEND;VALUE=DATE-TIME:20200928T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Кузнецов Андрей Алексе
  евич)\n
 LOCATION:\n\n                            
@@ -781,8 +745,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200929T090000
 DTEND;VALUE=DATE-TIME:20200929T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Цибин Андрей Юрьевич)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -790,8 +754,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20200929T110000
 DTEND;VALUE=DATE-TIME:20200929T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Цибин Андрей Юрьевич)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -799,8 +763,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20200929T131000
 DTEND;VALUE=DATE-TIME:20200929T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -809,9 +773,10 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200930T090000
 DTEND;VALUE=DATE-TIME:20200930T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
+DESCRIPTION:Практика\n(Цверина Виктория Марко
+ вна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
@@ -819,9 +784,10 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20200930T110000
 DTEND;VALUE=DATE-TIME:20200930T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
+DESCRIPTION:Практика\n(Цверина Виктория Марко
+ вна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
@@ -829,8 +795,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200930T120000
 DTEND;VALUE=DATE-TIME:20200930T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
  ич)\n
 LOCATION:\n\n                            
@@ -840,8 +806,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20200930T131000
 DTEND;VALUE=DATE-TIME:20200930T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
  ич)\n
 LOCATION:\n\n                            
@@ -850,8 +816,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20201001T090000
 DTEND;VALUE=DATE-TIME:20201001T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Каф. микр\, вирус)\nПоток "317
  -335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед"
 LOCATION:\n\n                            
@@ -861,8 +827,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20201001T110000
 DTEND;VALUE=DATE-TIME:20201001T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Рыбакова Маргарита Григо
  рьевна)\nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 По
  ток + Пед"
@@ -872,8 +838,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20201001T131000
 DTEND;VALUE=DATE-TIME:20201001T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Лукичев Борис Георгиевич)
  \nПоток "317-335\; 397\; 398#3 Курс 2 Поток"
 LOCATION:\n\n                            
@@ -882,8 +848,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20201001T151000
 DTEND;VALUE=DATE-TIME:20201001T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Кубынин Андрей Николаеви
  ч)\nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 Поток + 
  Пед"
@@ -893,8 +859,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20201002T090000
 DTEND;VALUE=DATE-TIME:20201002T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. микр\, вирус)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -902,8 +868,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20201002T131000
 DTEND;VALUE=DATE-TIME:20201002T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -912,8 +878,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201002T151000
 DTEND;VALUE=DATE-TIME:20201002T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -921,8 +887,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20201003T090000
 DTEND;VALUE=DATE-TIME:20201003T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -930,8 +896,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20201003T110000
 DTEND;VALUE=DATE-TIME:20201003T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -939,8 +905,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20201005T090000
 DTEND;VALUE=DATE-TIME:20201005T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Лазовская Ольга Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -949,8 +915,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20201005T110000
 DTEND;VALUE=DATE-TIME:20201005T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Лазовская Ольга Алекса
  ндровна)\n
 LOCATION:\n\n                            
@@ -959,8 +925,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20201005T120000
 DTEND;VALUE=DATE-TIME:20201005T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Кузнецов Андрей Алексе
  евич)\n
 LOCATION:\n\n                            
@@ -969,8 +935,8 @@ BEGIN:VEVENT
 SUMMARY:Гигиена
 DTSTART;VALUE=DATE-TIME:20201005T131000
 DTEND;VALUE=DATE-TIME:20201005T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Кузнецов Андрей Алексе
  евич)\n
 LOCATION:\n\n                            
@@ -979,8 +945,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20201006T090000
 DTEND;VALUE=DATE-TIME:20201006T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Цибин Андрей Юрьевич)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -988,8 +954,8 @@ BEGIN:VEVENT
 SUMMARY:Общая хирургия
 DTSTART;VALUE=DATE-TIME:20201006T110000
 DTEND;VALUE=DATE-TIME:20201006T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Цибин Андрей Юрьевич)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -997,8 +963,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20201006T131000
 DTEND;VALUE=DATE-TIME:20201006T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1007,9 +973,10 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20201007T090000
 DTEND;VALUE=DATE-TIME:20201007T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
+DESCRIPTION:Практика\n(Цверина Виктория Марко
+ вна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
@@ -1017,9 +984,10 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20201007T110000
 DTEND;VALUE=DATE-TIME:20201007T115000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
-DESCRIPTION:Практика\n(Каф. Патофизиол)\n
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
+DESCRIPTION:Практика\n(Цверина Виктория Марко
+ вна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
@@ -1027,8 +995,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20201007T120000
 DTEND;VALUE=DATE-TIME:20201007T125000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
  ич)\n
 LOCATION:\n\n                            
@@ -1038,8 +1006,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20201007T131000
 DTEND;VALUE=DATE-TIME:20201007T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Мюрзеп Андрей Эдуардов
  ич)\n
 LOCATION:\n\n                            
@@ -1049,8 +1017,8 @@ SUMMARY:Патофизиология\, клиническая патофи
  зиология
 DTSTART;VALUE=DATE-TIME:20201008T090000
 DTEND;VALUE=DATE-TIME:20201008T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Власов Тимур Дмитриевич)\n
  Поток "317-335\; 345-349\; 397\; 398#3 Курс 2 Поток + Пед
  "
@@ -1061,8 +1029,8 @@ SUMMARY:Патологическая анатомия\, клиническ
  ая патологическая анатомия
 DTSTART;VALUE=DATE-TIME:20201008T110000
 DTEND;VALUE=DATE-TIME:20201008T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Рыбакова Маргарита Григо
  рьевна)\nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 По
  ток + Пед"
@@ -1072,8 +1040,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20201008T131000
 DTEND;VALUE=DATE-TIME:20201008T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Смирнов Алексей Владимир
  ович)\nПоток "317-335\; 397\; 398#3 Курс 2 Поток"
 LOCATION:\n\n                            
@@ -1082,8 +1050,8 @@ BEGIN:VEVENT
 SUMMARY:Фармакология
 DTSTART;VALUE=DATE-TIME:20201008T151000
 DTEND;VALUE=DATE-TIME:20201008T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Лекция\n(Кубынин Андрей Николаеви
  ч)\nПоток "317-335\; 345-349\; 397\; 398#3 Курс 2 Поток + 
  Пед"
@@ -1093,8 +1061,8 @@ BEGIN:VEVENT
 SUMMARY:Микробиология\, вирусология
 DTSTART;VALUE=DATE-TIME:20201009T090000
 DTEND;VALUE=DATE-TIME:20201009T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. микр\, вирус)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1102,8 +1070,8 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура
 DTSTART;VALUE=DATE-TIME:20201009T131000
 DTEND;VALUE=DATE-TIME:20201009T145000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. физвосп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1112,8 +1080,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201009T151000
 DTEND;VALUE=DATE-TIME:20201009T165000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1121,8 +1089,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20201010T090000
 DTEND;VALUE=DATE-TIME:20201010T104000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1130,8 +1098,8 @@ BEGIN:VEVENT
 SUMMARY:Пропедевтика внутренних болезней
 DTSTART;VALUE=DATE-TIME:20201010T110000
 DTEND;VALUE=DATE-TIME:20201010T124000
-DTSTAMP;VALUE=DATE-TIME:20200902T220007Z
-COMMENT:Расписание не менялось с 21:00 2 сен
+DTSTAMP;VALUE=DATE-TIME:20200903T220006Z
+COMMENT:Расписание не менялось с 20:27 3 сен
 DESCRIPTION:Практика\n(Каф. проп вн бол)\n
 LOCATION:\n\n                            
 END:VEVENT

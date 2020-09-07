@@ -11,8 +11,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200907T090000
 DTEND;VALUE=DATE-TIME:20200907T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Мирчук Константи
  н Константинович)\nПоток "420\; 421\; 422\; 423\; 424\
  ; 425\; 431\; 432#Факультетская хирургия"
@@ -22,8 +22,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200907T110000
 DTEND;VALUE=DATE-TIME:20200907T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -32,8 +32,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200907T131000
 DTEND;VALUE=DATE-TIME:20200907T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -43,8 +43,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200907T151000
 DTEND;VALUE=DATE-TIME:20200907T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -55,8 +55,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200908T090000
 DTEND;VALUE=DATE-TIME:20200908T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Мясникова Марина
   Олеговна)\nПоток "420\; 421\; 422\; 423\; 424\; 425\; 431\; 
  432#Факультетская хирургия"
@@ -66,8 +66,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200908T110000
 DTEND;VALUE=DATE-TIME:20200908T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -77,8 +77,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200908T151000
 DTEND;VALUE=DATE-TIME:20200908T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -89,8 +89,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200909T090000
 DTEND;VALUE=DATE-TIME:20200909T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Морозов Виктор П
  етрович)\nПоток "420\; 421\; 422\; 423\; 424\; 425\; 431\; 432
  #Факультетская хирургия"
@@ -100,8 +100,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200909T110000
 DTEND;VALUE=DATE-TIME:20200909T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -111,8 +111,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200909T151000
 DTEND;VALUE=DATE-TIME:20200909T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -123,8 +123,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200910T090000
 DTEND;VALUE=DATE-TIME:20200910T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Яицкий Андрей Ни
  колаевич)\nПоток "420\; 421\; 422\; 423\; 424\; 425\; 431\; 4
  32#Факультетская хирургия"
@@ -134,8 +134,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200910T110000
 DTEND;VALUE=DATE-TIME:20200910T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -144,8 +144,8 @@ BEGIN:VEVENT
 SUMMARY:Оториноларингология
 DTSTART;VALUE=DATE-TIME:20200910T151000
 DTEND;VALUE=DATE-TIME:20200910T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Рябова Марина Андреевна)\n
  Поток "40-444\; 450\; 446-465\; 497-498\;  400Д#ЛОР"
 LOCATION:\n\n                            
@@ -154,8 +154,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200911T090000
 DTEND;VALUE=DATE-TIME:20200911T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Тарбаев Сергей Д
  митриевич)\nПоток "420\; 421\; 422\; 423\; 424\; 425\; 431\;
   432#Факультетская хирургия"
@@ -165,8 +165,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200911T110000
 DTEND;VALUE=DATE-TIME:20200911T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -175,8 +175,8 @@ BEGIN:VEVENT
 SUMMARY:Офтальмология
 DTSTART;VALUE=DATE-TIME:20200911T151000
 DTEND;VALUE=DATE-TIME:20200911T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Новиков Сергей Александр
  ович)\nПоток "401-444\; 450\; 461-465\; 497\; 498\;  400Д#Офт
  альмология"
@@ -186,8 +186,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200912T090000
 DTEND;VALUE=DATE-TIME:20200912T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Смирнов Дмитрий 
  Алексеевич)\nПоток "420\; 421\; 422\; 423\; 424\; 425\; 431
  \; 432#Факультетская хирургия"
@@ -197,8 +197,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200912T110000
 DTEND;VALUE=DATE-TIME:20200912T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -208,8 +208,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200912T151000
 DTEND;VALUE=DATE-TIME:20200912T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -220,8 +220,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200914T090000
 DTEND;VALUE=DATE-TIME:20200914T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Немков Александр
   Сергеевич)\nПоток "420\; 421\; 422\; 423\; 424\; 425\; 431\
  ; 432#Факультетская хирургия"
@@ -231,8 +231,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200914T110000
 DTEND;VALUE=DATE-TIME:20200914T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -242,8 +242,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200914T151000
 DTEND;VALUE=DATE-TIME:20200914T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -254,8 +254,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200915T090000
 DTEND;VALUE=DATE-TIME:20200915T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Богомолов Михаил
   Сергеевич)\nПоток "420\; 421\; 422\; 423\; 424\; 425\; 431\
  ; 432#Факультетская хирургия"
@@ -265,8 +265,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200915T110000
 DTEND;VALUE=DATE-TIME:20200915T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -276,8 +276,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200915T151000
 DTEND;VALUE=DATE-TIME:20200915T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -288,8 +288,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200916T090000
 DTEND;VALUE=DATE-TIME:20200916T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Мжельский Алекса
  ндр Вячеславович)\nПоток "420\; 421\; 422\; 423\; 424\
  ; 425\; 431\; 432#Факультетская хирургия"
@@ -299,8 +299,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200916T110000
 DTEND;VALUE=DATE-TIME:20200916T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -310,8 +310,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200916T151000
 DTEND;VALUE=DATE-TIME:20200916T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -322,8 +322,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200917T090000
 DTEND;VALUE=DATE-TIME:20200917T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Мжельский Алекса
  ндр Вячеславович)\nПоток "420\; 421\; 422\; 423\; 424\
  ; 425\; 431\; 432#Факультетская хирургия"
@@ -333,8 +333,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200917T110000
 DTEND;VALUE=DATE-TIME:20200917T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -344,8 +344,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200917T151000
 DTEND;VALUE=DATE-TIME:20200917T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -356,8 +356,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200918T090000
 DTEND;VALUE=DATE-TIME:20200918T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Мжельский Алекса
  ндр Вячеславович)\nПоток "420\; 421\; 422\; 423\; 424\
  ; 425\; 431\; 432#Факультетская хирургия"
@@ -367,8 +367,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200918T110000
 DTEND;VALUE=DATE-TIME:20200918T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -377,8 +377,8 @@ BEGIN:VEVENT
 SUMMARY:Офтальмология
 DTSTART;VALUE=DATE-TIME:20200918T151000
 DTEND;VALUE=DATE-TIME:20200918T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Тульцева Светлана Никола
  евна)\nПоток "401-444\; 450\; 461-465\; 497\; 498\;  400Д#Офт
  альмология"
@@ -388,8 +388,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200919T090000
 DTEND;VALUE=DATE-TIME:20200919T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Морозов Виктор П
  етрович)\nПоток "420\; 421\; 422\; 423\; 424\; 425\; 431\; 432
  #Факультетская хирургия"
@@ -399,8 +399,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200919T110000
 DTEND;VALUE=DATE-TIME:20200919T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -409,8 +409,8 @@ BEGIN:VEVENT
 SUMMARY:Оториноларингология
 DTSTART;VALUE=DATE-TIME:20200919T151000
 DTEND;VALUE=DATE-TIME:20200919T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Лавренова Галина Владими
  ровна)\nПоток "40-444\; 450\; 446-465\; 497-498\;  400Д#ЛОР"
 LOCATION:\n\n                            
@@ -419,8 +419,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200921T090000
 DTEND;VALUE=DATE-TIME:20200921T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция на цикле\n(Смирнов Дмитрий 
  Алексеевич)\nПоток "420\; 421\; 422\; 423\; 424\; 425\; 431
  \; 432#Факультетская хирургия"
@@ -430,8 +430,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20200921T110000
 DTEND;VALUE=DATE-TIME:20200921T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -441,8 +441,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200921T151000
 DTEND;VALUE=DATE-TIME:20200921T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -454,8 +454,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200922T090000
 DTEND;VALUE=DATE-TIME:20200922T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -464,8 +464,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200922T110000
 DTEND;VALUE=DATE-TIME:20200922T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -476,8 +476,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200922T131000
 DTEND;VALUE=DATE-TIME:20200922T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -488,8 +488,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200922T151000
 DTEND;VALUE=DATE-TIME:20200922T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -501,8 +501,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200923T090000
 DTEND;VALUE=DATE-TIME:20200923T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -511,8 +511,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200923T110000
 DTEND;VALUE=DATE-TIME:20200923T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф Терап госп)\nПоток "420-43
  2\; 461-465\;  400Д#Факультетская терапия\, проф
  ессиональные болезни"
@@ -523,8 +523,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200923T131000
 DTEND;VALUE=DATE-TIME:20200923T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -535,8 +535,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200923T151000
 DTEND;VALUE=DATE-TIME:20200923T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -548,8 +548,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200924T090000
 DTEND;VALUE=DATE-TIME:20200924T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -558,8 +558,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200924T110000
 DTEND;VALUE=DATE-TIME:20200924T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -568,8 +568,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200924T131000
 DTEND;VALUE=DATE-TIME:20200924T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -578,8 +578,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200924T151000
 DTEND;VALUE=DATE-TIME:20200924T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -591,8 +591,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200925T090000
 DTEND;VALUE=DATE-TIME:20200925T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -601,8 +601,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200925T110000
 DTEND;VALUE=DATE-TIME:20200925T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -611,8 +611,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200925T131000
 DTEND;VALUE=DATE-TIME:20200925T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф Терап госп)\nПоток "420-43
  2\; 461-465\;  400Д#Факультетская терапия\, проф
  ессиональные болезни"
@@ -622,8 +622,8 @@ BEGIN:VEVENT
 SUMMARY:Офтальмология
 DTSTART;VALUE=DATE-TIME:20200925T151000
 DTEND;VALUE=DATE-TIME:20200925T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Лисочкина Алла Борисовна)
  \nПоток "401-444\; 450\; 461-465\; 497\; 498\;  400Д#Офтальм
  ология"
@@ -634,8 +634,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200926T090000
 DTEND;VALUE=DATE-TIME:20200926T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -644,8 +644,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200926T110000
 DTEND;VALUE=DATE-TIME:20200926T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -654,8 +654,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200926T131000
 DTEND;VALUE=DATE-TIME:20200926T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф Терап госп)\nПоток "420-43
  2\; 461-465\;  400Д#Факультетская терапия\, проф
  ессиональные болезни"
@@ -666,8 +666,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200926T151000
 DTEND;VALUE=DATE-TIME:20200926T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -679,8 +679,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200928T090000
 DTEND;VALUE=DATE-TIME:20200928T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -689,8 +689,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200928T110000
 DTEND;VALUE=DATE-TIME:20200928T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -701,8 +701,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200928T131000
 DTEND;VALUE=DATE-TIME:20200928T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -713,8 +713,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200928T151000
 DTEND;VALUE=DATE-TIME:20200928T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -726,8 +726,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200929T090000
 DTEND;VALUE=DATE-TIME:20200929T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -736,8 +736,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200929T110000
 DTEND;VALUE=DATE-TIME:20200929T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -746,8 +746,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200929T131000
 DTEND;VALUE=DATE-TIME:20200929T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -758,8 +758,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200929T151000
 DTEND;VALUE=DATE-TIME:20200929T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -771,8 +771,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200930T090000
 DTEND;VALUE=DATE-TIME:20200930T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -781,8 +781,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200930T110000
 DTEND;VALUE=DATE-TIME:20200930T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -791,8 +791,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200930T131000
 DTEND;VALUE=DATE-TIME:20200930T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -803,8 +803,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200930T151000
 DTEND;VALUE=DATE-TIME:20200930T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -816,8 +816,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201001T090000
 DTEND;VALUE=DATE-TIME:20201001T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -826,8 +826,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201001T110000
 DTEND;VALUE=DATE-TIME:20201001T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -836,8 +836,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201001T131000
 DTEND;VALUE=DATE-TIME:20201001T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -846,8 +846,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201001T151000
 DTEND;VALUE=DATE-TIME:20201001T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -859,8 +859,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201002T090000
 DTEND;VALUE=DATE-TIME:20201002T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -869,8 +869,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201002T110000
 DTEND;VALUE=DATE-TIME:20201002T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -879,8 +879,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201002T131000
 DTEND;VALUE=DATE-TIME:20201002T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -890,8 +890,8 @@ BEGIN:VEVENT
 SUMMARY:Оториноларингология
 DTSTART;VALUE=DATE-TIME:20201002T151000
 DTEND;VALUE=DATE-TIME:20201002T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Сопко Ольга Николаевна)\nП
  оток "40-444\; 450\; 446-465\; 497-498\;  400Д#ЛОР"
 LOCATION:\n\n                            
@@ -901,8 +901,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201003T090000
 DTEND;VALUE=DATE-TIME:20201003T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -911,8 +911,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201003T110000
 DTEND;VALUE=DATE-TIME:20201003T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -921,8 +921,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201003T131000
 DTEND;VALUE=DATE-TIME:20201003T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -933,8 +933,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201005T090000
 DTEND;VALUE=DATE-TIME:20201005T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -943,8 +943,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201005T110000
 DTEND;VALUE=DATE-TIME:20201005T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -953,8 +953,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201005T131000
 DTEND;VALUE=DATE-TIME:20201005T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -965,8 +965,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201005T151000
 DTEND;VALUE=DATE-TIME:20201005T165000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф Терап госп)\nПоток "420-43
  2\; 461-465\;  400Д#Факультетская терапия\, проф
  ессиональные болезни"
@@ -977,8 +977,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201006T090000
 DTEND;VALUE=DATE-TIME:20201006T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -987,8 +987,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201006T110000
 DTEND;VALUE=DATE-TIME:20201006T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -997,8 +997,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201006T131000
 DTEND;VALUE=DATE-TIME:20201006T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф Терап госп)\nПоток "420-43
  2\; 461-465\;  400Д#Факультетская терапия\, проф
  ессиональные болезни"
@@ -1009,8 +1009,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201007T090000
 DTEND;VALUE=DATE-TIME:20201007T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1019,8 +1019,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201007T110000
 DTEND;VALUE=DATE-TIME:20201007T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1029,8 +1029,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201007T131000
 DTEND;VALUE=DATE-TIME:20201007T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -1041,8 +1041,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201008T090000
 DTEND;VALUE=DATE-TIME:20201008T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1051,8 +1051,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201008T110000
 DTEND;VALUE=DATE-TIME:20201008T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1061,8 +1061,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201008T131000
 DTEND;VALUE=DATE-TIME:20201008T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1071,8 +1071,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201009T090000
 DTEND;VALUE=DATE-TIME:20201009T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1081,8 +1081,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201009T110000
 DTEND;VALUE=DATE-TIME:20201009T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1091,8 +1091,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201009T131000
 DTEND;VALUE=DATE-TIME:20201009T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -1103,8 +1103,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201010T090000
 DTEND;VALUE=DATE-TIME:20201010T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1113,8 +1113,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201010T110000
 DTEND;VALUE=DATE-TIME:20201010T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1123,8 +1123,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201010T131000
 DTEND;VALUE=DATE-TIME:20201010T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Лекция\n(Каф терап факульт)\nПоток "
  420-432\; 461-465\;  400Д#Факультетская терапия\, п
  рофессиональные болезни"
@@ -1135,8 +1135,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201012T090000
 DTEND;VALUE=DATE-TIME:20201012T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1145,8 +1145,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201012T110000
 DTEND;VALUE=DATE-TIME:20201012T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1155,8 +1155,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201012T131000
 DTEND;VALUE=DATE-TIME:20201012T145000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф Терап госп)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1164,8 +1164,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201013T090000
 DTEND;VALUE=DATE-TIME:20201013T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф. хирург фак)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1173,8 +1173,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201013T110000
 DTEND;VALUE=DATE-TIME:20201013T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф. хирург фак)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1182,8 +1182,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201014T090000
 DTEND;VALUE=DATE-TIME:20201014T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф. хирург фак)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1191,8 +1191,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201014T110000
 DTEND;VALUE=DATE-TIME:20201014T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф. хирург фак)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1200,8 +1200,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201015T090000
 DTEND;VALUE=DATE-TIME:20201015T104000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф. хирург фак)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -1209,8 +1209,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201015T110000
 DTEND;VALUE=DATE-TIME:20201015T124000
-DTSTAMP;VALUE=DATE-TIME:20200907T105714Z
-COMMENT:Расписание не менялось с 09:48 7 сен
+DTSTAMP;VALUE=DATE-TIME:20200907T220007Z
+COMMENT:Расписание не менялось с 20:37 7 сен
 DESCRIPTION:Практика\n(Каф. хирург фак)\n
 LOCATION:\n\n                            
 END:VEVENT

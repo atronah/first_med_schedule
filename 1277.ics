@@ -8,46 +8,12 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Факультетская хирургия
-DTSTART;VALUE=DATE-TIME:20200921T090000
-DTEND;VALUE=DATE-TIME:20200921T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
-DESCRIPTION:Лекция на цикле\n(Смирнов Дмитрий 
- Алексеевич)\nПоток "420\; 421\; 422\; 423\; 424\; 425\; 431
- \; 432#Факультетская хирургия"
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Факультетская хирургия
-DTSTART;VALUE=DATE-TIME:20200921T110000
-DTEND;VALUE=DATE-TIME:20200921T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
-DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
- вич)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общественное здоровье и здравоохра
- нение\, экономика здравоохранения
-DTSTART;VALUE=DATE-TIME:20200921T151000
-DTEND;VALUE=DATE-TIME:20200921T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
-DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
- \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
- щественное здоровье и здравоохранение\, 
- экономика здравоохранения"
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200922T090000
 DTEND;VALUE=DATE-TIME:20200922T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -57,8 +23,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200922T110000
 DTEND;VALUE=DATE-TIME:20200922T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Шляхто Евгений Владимиро
  вич)\nПоток "420-432\; 461-465\;  400Д#Факультетская
   терапия\, профессиональные болезни"
@@ -69,8 +35,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200922T131000
 DTEND;VALUE=DATE-TIME:20200922T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Баранова Елена Ивановна)\n
  Поток "420-432\; 461-465\;  400Д#Факультетская тера
  пия\, профессиональные болезни"
@@ -81,8 +47,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200922T151000
 DTEND;VALUE=DATE-TIME:20200922T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -94,8 +60,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200923T090000
 DTEND;VALUE=DATE-TIME:20200923T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -105,8 +71,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200923T110000
 DTEND;VALUE=DATE-TIME:20200923T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф Терап госп)\nПоток "420-43
  2\; 461-465\;  400Д#Факультетская терапия\, проф
  ессиональные болезни"
@@ -117,8 +83,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200923T131000
 DTEND;VALUE=DATE-TIME:20200923T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Бродская Инна Семеновна)\n
  Поток "420-432\; 461-465\;  400Д#Факультетская тера
  пия\, профессиональные болезни"
@@ -129,8 +95,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200923T151000
 DTEND;VALUE=DATE-TIME:20200923T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -142,8 +108,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200924T090000
 DTEND;VALUE=DATE-TIME:20200924T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -153,8 +119,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200924T110000
 DTEND;VALUE=DATE-TIME:20200924T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -164,8 +130,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200924T131000
 DTEND;VALUE=DATE-TIME:20200924T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -175,8 +141,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200924T151000
 DTEND;VALUE=DATE-TIME:20200924T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -188,8 +154,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200925T090000
 DTEND;VALUE=DATE-TIME:20200925T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -199,8 +165,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200925T110000
 DTEND;VALUE=DATE-TIME:20200925T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -210,8 +176,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200925T131000
 DTEND;VALUE=DATE-TIME:20200925T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220008Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф Терап госп)\nПоток "420-43
  2\; 461-465\;  400Д#Факультетская терапия\, проф
  ессиональные болезни"
@@ -221,8 +187,8 @@ BEGIN:VEVENT
 SUMMARY:Офтальмология
 DTSTART;VALUE=DATE-TIME:20200925T151000
 DTEND;VALUE=DATE-TIME:20200925T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Лисочкина Алла Борисовна)
  \nПоток "401-444\; 450\; 461-465\; 497\; 498\;  400Д#Офтальм
  ология"
@@ -233,8 +199,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200926T090000
 DTEND;VALUE=DATE-TIME:20200926T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -244,8 +210,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200926T110000
 DTEND;VALUE=DATE-TIME:20200926T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -255,8 +221,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200926T131000
 DTEND;VALUE=DATE-TIME:20200926T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф Терап госп)\nПоток "420-43
  2\; 461-465\;  400Д#Факультетская терапия\, проф
  ессиональные болезни"
@@ -267,8 +233,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200926T151000
 DTEND;VALUE=DATE-TIME:20200926T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -280,8 +246,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200928T090000
 DTEND;VALUE=DATE-TIME:20200928T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -291,8 +257,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200928T110000
 DTEND;VALUE=DATE-TIME:20200928T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Шляхто Евгений Владимиро
  вич)\nПоток "420-432\; 461-465\;  400Д#Факультетская
   терапия\, профессиональные болезни"
@@ -303,8 +269,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200928T131000
 DTEND;VALUE=DATE-TIME:20200928T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Марченко Валерий Николае
  вич)\nПоток "420-432\; 461-465\;  400Д#Факультетская
   терапия\, профессиональные болезни"
@@ -315,8 +281,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200928T151000
 DTEND;VALUE=DATE-TIME:20200928T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -328,8 +294,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200929T090000
 DTEND;VALUE=DATE-TIME:20200929T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -339,8 +305,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200929T110000
 DTEND;VALUE=DATE-TIME:20200929T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -350,8 +316,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200929T131000
 DTEND;VALUE=DATE-TIME:20200929T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Трофимов Василий Иванови
  ч)\nПоток "420-432\; 461-465\;  400Д#Факультетская т
  ерапия\, профессиональные болезни"
@@ -362,8 +328,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200929T151000
 DTEND;VALUE=DATE-TIME:20200929T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -375,8 +341,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200930T090000
 DTEND;VALUE=DATE-TIME:20200930T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -386,8 +352,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200930T110000
 DTEND;VALUE=DATE-TIME:20200930T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -397,8 +363,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20200930T131000
 DTEND;VALUE=DATE-TIME:20200930T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Залевская Алсу Гафуровна)
  \nПоток "420-432\; 461-465\;  400Д#Факультетская тер
  апия\, профессиональные болезни"
@@ -409,8 +375,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20200930T151000
 DTEND;VALUE=DATE-TIME:20200930T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -422,8 +388,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201001T090000
 DTEND;VALUE=DATE-TIME:20201001T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -433,8 +399,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201001T110000
 DTEND;VALUE=DATE-TIME:20201001T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -444,8 +410,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201001T131000
 DTEND;VALUE=DATE-TIME:20201001T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -455,8 +421,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201001T151000
 DTEND;VALUE=DATE-TIME:20201001T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф. общ. здор и здравоохр)
  \nПоток "407\; 410-418\; 420-429\; 431\; 432\; 436-439\; 442-444#Об
  щественное здоровье и здравоохранение\, 
@@ -468,8 +434,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201002T090000
 DTEND;VALUE=DATE-TIME:20201002T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -479,8 +445,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201002T110000
 DTEND;VALUE=DATE-TIME:20201002T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -490,8 +456,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201002T131000
 DTEND;VALUE=DATE-TIME:20201002T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Салогуб Галина Николаевн
  а)\nПоток "420-432\; 461-465\;  400Д#Факультетская т
  ерапия\, профессиональные болезни"
@@ -501,8 +467,8 @@ BEGIN:VEVENT
 SUMMARY:Оториноларингология
 DTSTART;VALUE=DATE-TIME:20201002T151000
 DTEND;VALUE=DATE-TIME:20201002T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Сопко Ольга Николаевна)\nП
  оток "40-444\; 450\; 446-465\; 497-498\;  400Д#ЛОР"
 LOCATION:\n\n                            
@@ -512,8 +478,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201003T090000
 DTEND;VALUE=DATE-TIME:20201003T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -523,8 +489,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201003T110000
 DTEND;VALUE=DATE-TIME:20201003T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -534,8 +500,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201003T131000
 DTEND;VALUE=DATE-TIME:20201003T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Моисеева Ольга Михайловн
  а)\nПоток "420-432\; 461-465\;  400Д#Факультетская т
  ерапия\, профессиональные болезни"
@@ -546,8 +512,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201005T090000
 DTEND;VALUE=DATE-TIME:20201005T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -557,8 +523,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201005T110000
 DTEND;VALUE=DATE-TIME:20201005T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -568,8 +534,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201005T131000
 DTEND;VALUE=DATE-TIME:20201005T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Волкова Анна Ральфовна)\nП
  оток "420-432\; 461-465\;  400Д#Факультетская терап
  ия\, профессиональные болезни"
@@ -580,8 +546,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201005T151000
 DTEND;VALUE=DATE-TIME:20201005T165000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф Терап госп)\nПоток "420-43
  2\; 461-465\;  400Д#Факультетская терапия\, проф
  ессиональные болезни"
@@ -592,8 +558,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201006T090000
 DTEND;VALUE=DATE-TIME:20201006T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -603,8 +569,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201006T110000
 DTEND;VALUE=DATE-TIME:20201006T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -614,8 +580,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201006T131000
 DTEND;VALUE=DATE-TIME:20201006T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Каф Терап госп)\nПоток "420-43
  2\; 461-465\;  400Д#Факультетская терапия\, проф
  ессиональные болезни"
@@ -626,8 +592,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201007T090000
 DTEND;VALUE=DATE-TIME:20201007T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -637,8 +603,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201007T110000
 DTEND;VALUE=DATE-TIME:20201007T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -648,8 +614,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201007T131000
 DTEND;VALUE=DATE-TIME:20201007T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220007Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Шляхто Евгений Владимиро
  вич)\nПоток "420-432\; 461-465\;  400Д#Факультетская
   терапия\, профессиональные болезни"
@@ -660,8 +626,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201008T090000
 DTEND;VALUE=DATE-TIME:20201008T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -671,8 +637,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201008T110000
 DTEND;VALUE=DATE-TIME:20201008T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -682,8 +648,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201008T131000
 DTEND;VALUE=DATE-TIME:20201008T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -693,8 +659,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201009T090000
 DTEND;VALUE=DATE-TIME:20201009T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -704,8 +670,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201009T110000
 DTEND;VALUE=DATE-TIME:20201009T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -715,8 +681,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201009T131000
 DTEND;VALUE=DATE-TIME:20201009T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Салогуб Галина Николаевн
  а)\nПоток "420-432\; 461-465\;  400Д#Факультетская т
  ерапия\, профессиональные болезни"
@@ -727,8 +693,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201010T090000
 DTEND;VALUE=DATE-TIME:20201010T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -738,8 +704,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201010T110000
 DTEND;VALUE=DATE-TIME:20201010T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -749,8 +715,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201010T131000
 DTEND;VALUE=DATE-TIME:20201010T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция\n(Моисеева Ольга Михайловн
  а)\nПоток "420-432\; 461-465\;  400Д#Факультетская т
  ерапия\, профессиональные болезни"
@@ -761,8 +727,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201012T090000
 DTEND;VALUE=DATE-TIME:20201012T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -772,8 +738,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201012T110000
 DTEND;VALUE=DATE-TIME:20201012T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -783,8 +749,8 @@ SUMMARY:Факультетская терапия\, профессиона
  льные болезни
 DTSTART;VALUE=DATE-TIME:20201012T131000
 DTEND;VALUE=DATE-TIME:20201012T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Баженова Елена Анатоль
  евна)\n
 LOCATION:\n\n                            
@@ -793,8 +759,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201013T090000
 DTEND;VALUE=DATE-TIME:20201013T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -803,8 +769,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201013T110000
 DTEND;VALUE=DATE-TIME:20201013T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -813,8 +779,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201014T090000
 DTEND;VALUE=DATE-TIME:20201014T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -823,8 +789,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201014T110000
 DTEND;VALUE=DATE-TIME:20201014T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -833,8 +799,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201015T090000
 DTEND;VALUE=DATE-TIME:20201015T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -843,8 +809,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201015T110000
 DTEND;VALUE=DATE-TIME:20201015T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Тарбаев Сергей Дмитрие
  вич)\n
 LOCATION:\n\n                            
@@ -853,8 +819,8 @@ BEGIN:VEVENT
 SUMMARY:Факультетская хирургия
 DTSTART;VALUE=DATE-TIME:20201019T090000
 DTEND;VALUE=DATE-TIME:20201019T140000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Экзамен\n(Мирчук Константин Конст
  антинович)\n
 LOCATION:\n\n                            
@@ -863,8 +829,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201020T090000
 DTEND;VALUE=DATE-TIME:20201020T140000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Каф. неврологии)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -872,8 +838,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201021T090000
 DTEND;VALUE=DATE-TIME:20201021T140000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Каф. неврологии)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -881,8 +847,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201022T090000
 DTEND;VALUE=DATE-TIME:20201022T140000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Каф. неврологии)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -890,8 +856,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201023T090000
 DTEND;VALUE=DATE-TIME:20201023T140000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Каф. неврологии)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -899,8 +865,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201024T090000
 DTEND;VALUE=DATE-TIME:20201024T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция на цикле\n(Каф. неврологии)\n
  Поток "402\; 403\; 419\; 420\; 421\; 422#Неврология"
 LOCATION:\n\n                            
@@ -909,8 +875,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201024T110000
 DTEND;VALUE=DATE-TIME:20201024T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция на цикле\n(Каф. неврологии)\n
  Поток "402\; 403\; 419\; 420\; 421\; 422#Неврология"
 LOCATION:\n\n                            
@@ -919,8 +885,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201024T131000
 DTEND;VALUE=DATE-TIME:20201024T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция на цикле\n(Каф. неврологии)\n
  Поток "402\; 403\; 419\; 420\; 421\; 422#Неврология"
 LOCATION:\n\n                            
@@ -929,8 +895,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201026T090000
 DTEND;VALUE=DATE-TIME:20201026T140000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Каф. неврологии)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -938,8 +904,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201027T090000
 DTEND;VALUE=DATE-TIME:20201027T140000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Каф. неврологии)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -947,8 +913,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201028T090000
 DTEND;VALUE=DATE-TIME:20201028T140000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Каф. неврологии)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -956,8 +922,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201029T090000
 DTEND;VALUE=DATE-TIME:20201029T140000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Каф. неврологии)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -965,8 +931,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201030T090000
 DTEND;VALUE=DATE-TIME:20201030T140000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Практика\n(Каф. неврологии)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -974,8 +940,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201031T090000
 DTEND;VALUE=DATE-TIME:20201031T104000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция на цикле\n(Каф. неврологии)\n
  Поток "402\; 403\; 419\; 420\; 421\; 422#Неврология"
 LOCATION:\n\n                            
@@ -984,8 +950,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201031T110000
 DTEND;VALUE=DATE-TIME:20201031T124000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция на цикле\n(Каф. неврологии)\n
  Поток "402\; 403\; 419\; 420\; 421\; 422#Неврология"
 LOCATION:\n\n                            
@@ -994,8 +960,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201031T131000
 DTEND;VALUE=DATE-TIME:20201031T145000
-DTSTAMP;VALUE=DATE-TIME:20200921T220009Z
-COMMENT:Расписание не менялось с 21:00 21 сен
+DTSTAMP;VALUE=DATE-TIME:20200922T220008Z
+COMMENT:Расписание не менялось с 21:00 22 сен
 DESCRIPTION:Лекция на цикле\n(Каф. неврологии)\n
  Поток "402\; 403\; 419\; 420\; 421\; 422#Неврология"
 LOCATION:\n\n                            

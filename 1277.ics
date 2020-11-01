@@ -9,43 +9,10 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Неврология
-DTSTART;VALUE=DATE-TIME:20201031T090000
-DTEND;VALUE=DATE-TIME:20201031T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
-DESCRIPTION:Лекция на цикле\n(Скоромец Алексан
- др Анисимович)\nПоток "402\; 403\; 419\; 420\; 421\; 422#
- Неврология"
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Неврология
-DTSTART;VALUE=DATE-TIME:20201031T110000
-DTEND;VALUE=DATE-TIME:20201031T124000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
-DESCRIPTION:Лекция на цикле\n(Сорокоумов Викто
- р Александрович)\nПоток "402\; 403\; 419\; 420\; 421\; 
- 422#Неврология"
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Неврология
-DTSTART;VALUE=DATE-TIME:20201031T131000
-DTEND;VALUE=DATE-TIME:20201031T145000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
-DESCRIPTION:Лекция на цикле\n(Сорокоумов Викто
- р Александрович)\nПоток "402\; 403\; 419\; 420\; 421\; 
- 422#Неврология"
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201102T090000
 DTEND;VALUE=DATE-TIME:20201102T140000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Краснов Владимир Серге
  евич)\n
 LOCATION:\n\n                            
@@ -54,8 +21,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201103T090000
 DTEND;VALUE=DATE-TIME:20201103T122000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Краснов Владимир Серге
  евич)\n
 LOCATION:\n\n                            
@@ -64,8 +31,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201105T090000
 DTEND;VALUE=DATE-TIME:20201105T122000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Краснов Владимир Серге
  евич)\n
 LOCATION:\n\n                            
@@ -74,8 +41,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201106T090000
 DTEND;VALUE=DATE-TIME:20201106T122000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Краснов Владимир Серге
  евич)\n
 LOCATION:\n\n                            
@@ -84,8 +51,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201107T090000
 DTEND;VALUE=DATE-TIME:20201107T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Скоромец Алексан
  др Анисимович)\nПоток "402\; 403\; 419\; 420\; 421\; 422#
  Неврология"
@@ -95,8 +62,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201107T110000
 DTEND;VALUE=DATE-TIME:20201107T124000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Сорокоумов Викто
  р Александрович)\nПоток "402\; 403\; 419\; 420\; 421\; 
  422#Неврология"
@@ -106,8 +73,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201109T090000
 DTEND;VALUE=DATE-TIME:20201109T122000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Краснов Владимир Серге
  евич)\n
 LOCATION:\n\n                            
@@ -116,8 +83,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201110T090000
 DTEND;VALUE=DATE-TIME:20201110T122000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Краснов Владимир Серге
  евич)\n
 LOCATION:\n\n                            
@@ -126,8 +93,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201111T090000
 DTEND;VALUE=DATE-TIME:20201111T122000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Краснов Владимир Серге
  евич)\n
 LOCATION:\n\n                            
@@ -136,8 +103,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201112T090000
 DTEND;VALUE=DATE-TIME:20201112T122000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Краснов Владимир Серге
  евич)\n
 LOCATION:\n\n                            
@@ -146,8 +113,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201113T090000
 DTEND;VALUE=DATE-TIME:20201113T122000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Краснов Владимир Серге
  евич)\n
 LOCATION:\n\n                            
@@ -156,8 +123,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201114T090000
 DTEND;VALUE=DATE-TIME:20201114T122000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Краснов Владимир Серге
  евич)\n
 LOCATION:\n\n                            
@@ -166,8 +133,8 @@ BEGIN:VEVENT
 SUMMARY:Неврология
 DTSTART;VALUE=DATE-TIME:20201116T090000
 DTEND;VALUE=DATE-TIME:20201116T140000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Экзамен\n(Каф. неврологии)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -175,8 +142,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201117T090000
 DTEND;VALUE=DATE-TIME:20201117T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -186,8 +153,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201117T110000
 DTEND;VALUE=DATE-TIME:20201117T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -195,8 +162,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201118T090000
 DTEND;VALUE=DATE-TIME:20201118T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -206,8 +173,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201118T110000
 DTEND;VALUE=DATE-TIME:20201118T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -215,8 +182,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201119T090000
 DTEND;VALUE=DATE-TIME:20201119T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -226,8 +193,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201119T110000
 DTEND;VALUE=DATE-TIME:20201119T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -235,8 +202,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201120T090000
 DTEND;VALUE=DATE-TIME:20201120T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -246,8 +213,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201120T110000
 DTEND;VALUE=DATE-TIME:20201120T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -255,8 +222,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201121T090000
 DTEND;VALUE=DATE-TIME:20201121T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -266,8 +233,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201121T110000
 DTEND;VALUE=DATE-TIME:20201121T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -275,8 +242,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201123T090000
 DTEND;VALUE=DATE-TIME:20201123T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -286,8 +253,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201123T110000
 DTEND;VALUE=DATE-TIME:20201123T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -295,8 +262,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201124T090000
 DTEND;VALUE=DATE-TIME:20201124T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -306,8 +273,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201124T110000
 DTEND;VALUE=DATE-TIME:20201124T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -315,8 +282,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201125T090000
 DTEND;VALUE=DATE-TIME:20201125T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -326,8 +293,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201125T110000
 DTEND;VALUE=DATE-TIME:20201125T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -335,8 +302,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201126T090000
 DTEND;VALUE=DATE-TIME:20201126T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -346,8 +313,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201126T110000
 DTEND;VALUE=DATE-TIME:20201126T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -355,8 +322,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201127T090000
 DTEND;VALUE=DATE-TIME:20201127T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -366,8 +333,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201127T110000
 DTEND;VALUE=DATE-TIME:20201127T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -375,8 +342,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201128T090000
 DTEND;VALUE=DATE-TIME:20201128T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -386,8 +353,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201128T110000
 DTEND;VALUE=DATE-TIME:20201128T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -395,8 +362,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201130T090000
 DTEND;VALUE=DATE-TIME:20201130T104000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Лекция на цикле\n(Каф. Мед. реаб.и А
  ФК)\nПоток "419\; 420\; 421\; 422\; 423#Медицинская ре
  абилитация"
@@ -406,8 +373,8 @@ BEGIN:VEVENT
 SUMMARY:Медицинская реабилитация
 DTSTART;VALUE=DATE-TIME:20201130T110000
 DTEND;VALUE=DATE-TIME:20201130T142000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. Мед. реаб.и АФК)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -416,8 +383,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201201T090000
 DTEND;VALUE=DATE-TIME:20201201T140000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -427,8 +394,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201202T090000
 DTEND;VALUE=DATE-TIME:20201202T140000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -438,8 +405,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201203T090000
 DTEND;VALUE=DATE-TIME:20201203T140000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -449,8 +416,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201204T090000
 DTEND;VALUE=DATE-TIME:20201204T140000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -460,8 +427,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201205T090000
 DTEND;VALUE=DATE-TIME:20201205T140000
-DTSTAMP;VALUE=DATE-TIME:20201031T220009Z
-COMMENT:Расписание не менялось с 21:00 31 окт
+DTSTAMP;VALUE=DATE-TIME:20201101T220008Z
+COMMENT:Расписание не менялось с 21:00 1 ноя
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            

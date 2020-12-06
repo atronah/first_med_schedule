@@ -10,21 +10,10 @@ END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
-DTSTART;VALUE=DATE-TIME:20201205T090000
-DTEND;VALUE=DATE-TIME:20201205T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
-DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
- хр)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общественное здоровье и здравоохра
- нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201207T090000
 DTEND;VALUE=DATE-TIME:20201207T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -34,8 +23,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201208T090000
 DTEND;VALUE=DATE-TIME:20201208T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -45,8 +34,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201209T090000
 DTEND;VALUE=DATE-TIME:20201209T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -56,8 +45,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201210T090000
 DTEND;VALUE=DATE-TIME:20201210T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -67,8 +56,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201211T090000
 DTEND;VALUE=DATE-TIME:20201211T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -78,8 +67,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201212T090000
 DTEND;VALUE=DATE-TIME:20201212T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -89,8 +78,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201214T090000
 DTEND;VALUE=DATE-TIME:20201214T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -100,8 +89,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201215T090000
 DTEND;VALUE=DATE-TIME:20201215T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -111,8 +100,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201216T090000
 DTEND;VALUE=DATE-TIME:20201216T104000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
  хр)\n
 LOCATION:\n\n                            
@@ -122,8 +111,8 @@ SUMMARY:Общественное здоровье и здравоохра
  нение\, экономика здравоохранения
 DTSTART;VALUE=DATE-TIME:20201217T090000
 DTEND;VALUE=DATE-TIME:20201217T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Экзамен\n(Каф. общ. здор и здравоох
  р)\n
 LOCATION:\n\n                            
@@ -133,8 +122,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201218T090000
 DTEND;VALUE=DATE-TIME:20201218T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -143,8 +132,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201219T090000
 DTEND;VALUE=DATE-TIME:20201219T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -153,8 +142,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201221T090000
 DTEND;VALUE=DATE-TIME:20201221T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -163,8 +152,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201222T090000
 DTEND;VALUE=DATE-TIME:20201222T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -173,8 +162,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201223T090000
 DTEND;VALUE=DATE-TIME:20201223T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -183,8 +172,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201224T090000
 DTEND;VALUE=DATE-TIME:20201224T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -193,8 +182,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201225T090000
 DTEND;VALUE=DATE-TIME:20201225T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -203,8 +192,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201226T090000
 DTEND;VALUE=DATE-TIME:20201226T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT
@@ -213,8 +202,8 @@ SUMMARY:Топографическая анатомия и операти
  вная хирургия
 DTSTART;VALUE=DATE-TIME:20201228T090000
 DTEND;VALUE=DATE-TIME:20201228T140000
-DTSTAMP;VALUE=DATE-TIME:20201205T220007Z
-COMMENT:Расписание не менялось с 21:00 5 дек
+DTSTAMP;VALUE=DATE-TIME:20201206T220008Z
+COMMENT:Расписание не менялось с 21:00 6 дек
 DESCRIPTION:Экзамен\n(Каф кл.анат и оп.х)\n
 LOCATION:\n\n                            
 END:VEVENT

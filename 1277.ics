@@ -8,235 +8,415 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Общественное здоровье и здравоохра
- нение\, экономика здравоохранения
-DTSTART;VALUE=DATE-TIME:20201214T090000
-DTEND;VALUE=DATE-TIME:20201214T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
- хр)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общественное здоровье и здравоохра
- нение\, экономика здравоохранения
-DTSTART;VALUE=DATE-TIME:20201215T090000
-DTEND;VALUE=DATE-TIME:20201215T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
- хр)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общественное здоровье и здравоохра
- нение\, экономика здравоохранения
-DTSTART;VALUE=DATE-TIME:20201216T090000
-DTEND;VALUE=DATE-TIME:20201216T104000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф. общ. здор и здравоо
- хр)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Общественное здоровье и здравоохра
- нение\, экономика здравоохранения
-DTSTART;VALUE=DATE-TIME:20201217T090000
-DTEND;VALUE=DATE-TIME:20201217T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Экзамен\n(Каф. общ. здор и здравоох
- р)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Топографическая анатомия и операти
- вная хирургия
-DTSTART;VALUE=DATE-TIME:20201218T090000
-DTEND;VALUE=DATE-TIME:20201218T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Топографическая анатомия и операти
- вная хирургия
-DTSTART;VALUE=DATE-TIME:20201219T090000
-DTEND;VALUE=DATE-TIME:20201219T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Топографическая анатомия и операти
- вная хирургия
-DTSTART;VALUE=DATE-TIME:20201221T090000
-DTEND;VALUE=DATE-TIME:20201221T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Топографическая анатомия и операти
- вная хирургия
-DTSTART;VALUE=DATE-TIME:20201222T090000
-DTEND;VALUE=DATE-TIME:20201222T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Топографическая анатомия и операти
- вная хирургия
-DTSTART;VALUE=DATE-TIME:20201223T090000
-DTEND;VALUE=DATE-TIME:20201223T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Топографическая анатомия и операти
- вная хирургия
-DTSTART;VALUE=DATE-TIME:20201224T090000
-DTEND;VALUE=DATE-TIME:20201224T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Топографическая анатомия и операти
- вная хирургия
-DTSTART;VALUE=DATE-TIME:20201225T090000
-DTEND;VALUE=DATE-TIME:20201225T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Топографическая анатомия и операти
- вная хирургия
-DTSTART;VALUE=DATE-TIME:20201226T090000
-DTEND;VALUE=DATE-TIME:20201226T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф кл.анат и оп.х)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Топографическая анатомия и операти
- вная хирургия
-DTSTART;VALUE=DATE-TIME:20201228T090000
-DTEND;VALUE=DATE-TIME:20201228T140000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Экзамен\n(Каф кл.анат и оп.х)\n
-LOCATION:\n\n                            
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Медицинская генетика
 DTSTART;VALUE=DATE-TIME:20210111T090000
 DTEND;VALUE=DATE-TIME:20210111T122000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф. мед б и ген)\n
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Имянитов Евгений Наумо
+ вич)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Медицинская генетика
 DTSTART;VALUE=DATE-TIME:20210112T090000
 DTEND;VALUE=DATE-TIME:20210112T122000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф. мед б и ген)\n
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Корженевская Марина Ан
+ атольевна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Медико-генетические консультации
 DTSTART;VALUE=DATE-TIME:20210113T090000
 DTEND;VALUE=DATE-TIME:20210113T104000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Лекция\n(Каф. мед б и ген)\nПоток "419\;
-  420\; 421\; 422#Медико-генетические консульта
- ции"
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Корженевская Марина Анат
+ ольевна)\nПоток "419\; 420\; 421\; 422#Медико-генет
+ ические консультации"
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Медико-генетические консультации
 DTSTART;VALUE=DATE-TIME:20210113T110000
 DTEND;VALUE=DATE-TIME:20210113T142000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф. мед б и ген)\n
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Корженевская Марина Ан
+ атольевна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Медико-генетические консультации
 DTSTART;VALUE=DATE-TIME:20210114T090000
 DTEND;VALUE=DATE-TIME:20210114T104000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Лекция\n(Каф. мед б и ген)\nПоток "419\;
-  420\; 421\; 422#Медико-генетические консульта
- ции"
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Корженевская Марина Анат
+ ольевна)\nПоток "419\; 420\; 421\; 422#Медико-генет
+ ические консультации"
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Медико-генетические консультации
 DTSTART;VALUE=DATE-TIME:20210114T110000
 DTEND;VALUE=DATE-TIME:20210114T142000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф. мед б и ген)\n
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Корженевская Марина Ан
+ атольевна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Медико-генетические консультации
 DTSTART;VALUE=DATE-TIME:20210115T090000
 DTEND;VALUE=DATE-TIME:20210115T104000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Лекция\n(Каф. мед б и ген)\nПоток "419\;
-  420\; 421\; 422#Медико-генетические консульта
- ции"
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Корженевская Марина Анат
+ ольевна)\nПоток "419\; 420\; 421\; 422#Медико-генет
+ ические консультации"
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Медико-генетические консультации
 DTSTART;VALUE=DATE-TIME:20210115T110000
 DTEND;VALUE=DATE-TIME:20210115T142000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф. мед б и ген)\n
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Корженевская Марина Ан
+ атольевна)\n
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Медико-генетические консультации
 DTSTART;VALUE=DATE-TIME:20210116T090000
 DTEND;VALUE=DATE-TIME:20210116T104000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Лекция\n(Каф. мед б и ген)\nПоток "419\;
-  420\; 421\; 422#Медико-генетические консульта
- ции"
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Корженевская Марина Анат
+ ольевна)\nПоток "419\; 420\; 421\; 422#Медико-генет
+ ические консультации"
 LOCATION:\n\n                            
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Медико-генетические консультации
 DTSTART;VALUE=DATE-TIME:20210116T110000
 DTEND;VALUE=DATE-TIME:20210116T142000
-DTSTAMP;VALUE=DATE-TIME:20201213T220009Z
-COMMENT:Расписание не менялось с 21:00 13 дек
-DESCRIPTION:Практика\n(Каф. мед б и ген)\n
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Корженевская Марина Ан
+ атольевна)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Самостоятельное изучение материала
+DTSTART;VALUE=DATE-TIME:20210118T090000
+DTEND;VALUE=DATE-TIME:20210118T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(!Вакансия)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Самостоятельное изучение материала
+DTSTART;VALUE=DATE-TIME:20210119T090000
+DTEND;VALUE=DATE-TIME:20210119T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(!Вакансия)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Самостоятельное изучение материала
+DTSTART;VALUE=DATE-TIME:20210120T090000
+DTEND;VALUE=DATE-TIME:20210120T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(!Вакансия)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Самостоятельное изучение материала
+DTSTART;VALUE=DATE-TIME:20210121T090000
+DTEND;VALUE=DATE-TIME:20210121T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(!Вакансия)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Самостоятельное изучение материала
+DTSTART;VALUE=DATE-TIME:20210122T090000
+DTEND;VALUE=DATE-TIME:20210122T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(!Вакансия)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Самостоятельное изучение материала
+DTSTART;VALUE=DATE-TIME:20210123T090000
+DTEND;VALUE=DATE-TIME:20210123T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(!Вакансия)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210125T090000
+DTEND;VALUE=DATE-TIME:20210125T104000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция на цикле\n(Каф. Урологии)\nПо
+ ток "403\,419\,420\,431\,432\,441#Урология"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210125T110000
+DTEND;VALUE=DATE-TIME:20210125T142000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. Урологии)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210126T090000
+DTEND;VALUE=DATE-TIME:20210126T104000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция на цикле\n(Каф. Урологии)\nПо
+ ток "403\,419\,420\,431\,432\,441#Урология"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210126T110000
+DTEND;VALUE=DATE-TIME:20210126T142000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. Урологии)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210127T090000
+DTEND;VALUE=DATE-TIME:20210127T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. Урологии)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Педиатрия
+DTSTART;VALUE=DATE-TIME:20210127T151000
+DTEND;VALUE=DATE-TIME:20210127T165000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Смирнова Наталия Николае
+ вна)\nПоток "401-444\; 450\; 451-453\; 461-465\; 497\; 498\;  400
+ Д#Педиатрия"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210128T090000
+DTEND;VALUE=DATE-TIME:20210128T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. Урологии)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Педиатрия
+DTSTART;VALUE=DATE-TIME:20210128T151000
+DTEND;VALUE=DATE-TIME:20210128T165000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Смирнова Наталия Николае
+ вна)\nПоток "401-444\; 450\; 451-453\; 461-465\; 497\; 498\;  400
+ Д#Педиатрия"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210129T090000
+DTEND;VALUE=DATE-TIME:20210129T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. Урологии)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210130T090000
+DTEND;VALUE=DATE-TIME:20210130T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. Урологии)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210201T090000
+DTEND;VALUE=DATE-TIME:20210201T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. Урологии)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Педиатрия
+DTSTART;VALUE=DATE-TIME:20210201T151000
+DTEND;VALUE=DATE-TIME:20210201T165000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Смирнова Наталия Николае
+ вна)\nПоток "401-444\; 450\; 451-453\; 461-465\; 497\; 498\;  400
+ Д#Педиатрия"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210202T090000
+DTEND;VALUE=DATE-TIME:20210202T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. Урологии)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Педиатрия
+DTSTART;VALUE=DATE-TIME:20210202T151000
+DTEND;VALUE=DATE-TIME:20210202T165000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Смирнова Наталия Николае
+ вна)\nПоток "401-444\; 450\; 451-453\; 461-465\; 497\; 498\;  400
+ Д#Педиатрия"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Электив Урология
+DTSTART;VALUE=DATE-TIME:20210203T090000
+DTEND;VALUE=DATE-TIME:20210203T104000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция на цикле\n(Каф. Урологии)\nПо
+ ток "403\,419\,420\,431\,432\,441#Урология"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Электив Урология
+DTSTART;VALUE=DATE-TIME:20210203T110000
+DTEND;VALUE=DATE-TIME:20210203T142000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. оториноларингол)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Педиатрия
+DTSTART;VALUE=DATE-TIME:20210203T151000
+DTEND;VALUE=DATE-TIME:20210203T165000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Смирнова Наталия Николае
+ вна)\nПоток "401-444\; 450\; 451-453\; 461-465\; 497\; 498\;  400
+ Д#Педиатрия"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Электив Урология
+DTSTART;VALUE=DATE-TIME:20210204T090000
+DTEND;VALUE=DATE-TIME:20210204T104000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция на цикле\n(Каф. Урологии)\nПо
+ ток "403\,419\,420\,431\,432\,441#Урология"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Электив Урология
+DTSTART;VALUE=DATE-TIME:20210204T110000
+DTEND;VALUE=DATE-TIME:20210204T142000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. оториноларингол)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Электив Урология
+DTSTART;VALUE=DATE-TIME:20210205T090000
+DTEND;VALUE=DATE-TIME:20210205T104000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция на цикле\n(Каф. Урологии)\nПо
+ ток "403\,419\,420\,431\,432\,441#Урология"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Электив Урология
+DTSTART;VALUE=DATE-TIME:20210205T110000
+DTEND;VALUE=DATE-TIME:20210205T142000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. оториноларингол)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Электив Урология
+DTSTART;VALUE=DATE-TIME:20210206T090000
+DTEND;VALUE=DATE-TIME:20210206T104000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция на цикле\n(Каф. Урологии)\nПо
+ ток "403\,419\,420\,431\,432\,441#Урология"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Электив Урология
+DTSTART;VALUE=DATE-TIME:20210206T110000
+DTEND;VALUE=DATE-TIME:20210206T142000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Практика\n(Каф. оториноларингол)\n
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Педиатрия
+DTSTART;VALUE=DATE-TIME:20210208T151000
+DTEND;VALUE=DATE-TIME:20210208T165000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Смирнова Наталия Николае
+ вна)\nПоток "401-444\; 450\; 451-453\; 461-465\; 497\; 498\;  400
+ Д#Педиатрия"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Педиатрия
+DTSTART;VALUE=DATE-TIME:20210209T151000
+DTEND;VALUE=DATE-TIME:20210209T165000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Лекция\n(Смирнова Наталия Николае
+ вна)\nПоток "401-444\; 450\; 451-453\; 461-465\; 497\; 498\;  400
+ Д#Педиатрия"
+LOCATION:\n\n                            
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Урология
+DTSTART;VALUE=DATE-TIME:20210211T090000
+DTEND;VALUE=DATE-TIME:20210211T140000
+DTSTAMP;VALUE=DATE-TIME:20210106T220008Z
+COMMENT:Расписание не менялось с 21:00 6 янв
+DESCRIPTION:Экзамен\n(Каф. Урологии)\n
 LOCATION:\n\n                            
 END:VEVENT
 END:VCALENDAR
